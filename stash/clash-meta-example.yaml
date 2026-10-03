@@ -1,0 +1,22 @@
+# Clash Meta / mihomo 示例（DashBoard 支持 proxy-group 的 icon 字段）
+# base-url = https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/
+
+proxy-groups:
+  - name: "🚀 节点选择"
+    type: select
+    icon: https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Proxy.png
+    proxies: [DIRECT]
+
+  - name: "🇭🇰 香港节点"
+    type: url-test
+    icon: https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/hk.png
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+
+  - name: "🇺🇸 美国节点"
+    type: url-test
+    icon: https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/us.png
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50

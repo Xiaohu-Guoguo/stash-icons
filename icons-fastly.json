@@ -1,0 +1,1162 @@
+{
+ "name": "Stash 彩色图标集（Fastly 镜像）",
+ "description": "主流国内外网站彩色图标（Qure + simple-icons）＋ 75 国国旗（圆形 / 圆角方形）。含中文别名与分类索引。",
+ "icons": [
+  {
+   "name": "Direct",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Direct.png"
+  },
+  {
+   "name": "Proxy",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Proxy.png"
+  },
+  {
+   "name": "Reject",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Reject.png"
+  },
+  {
+   "name": "Final",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Final.png"
+  },
+  {
+   "name": "Global",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Global.png"
+  },
+  {
+   "name": "Auto",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Auto.png"
+  },
+  {
+   "name": "Static",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Static.png"
+  },
+  {
+   "name": "Available",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Available.png"
+  },
+  {
+   "name": "Loop",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Loop.png"
+  },
+  {
+   "name": "Speedtest",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Speedtest.png"
+  },
+  {
+   "name": "Download",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Download.png"
+  },
+  {
+   "name": "AdBlack",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/AdBlack.png"
+  },
+  {
+   "name": "Advertising",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Advertising.png"
+  },
+  {
+   "name": "Hijacking",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Hijacking.png"
+  },
+  {
+   "name": "Bypass",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Bypass.png"
+  },
+  {
+   "name": "Back",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Back.png"
+  },
+  {
+   "name": "Area",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Area.png"
+  },
+  {
+   "name": "Domestic",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Domestic.png"
+  },
+  {
+   "name": "ForeignMedia",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/ForeignMedia.png"
+  },
+  {
+   "name": "DomesticMedia",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/DomesticMedia.png"
+  },
+  {
+   "name": "Media",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Media.png"
+  },
+  {
+   "name": "Game",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Game.png"
+  },
+  {
+   "name": "Streaming",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Streaming.png"
+  },
+  {
+   "name": "StreamingCN",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/StreamingCN.png"
+  },
+  {
+   "name": "Unlock",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Unlock.png"
+  },
+  {
+   "name": "Music_Enhance",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Music_Enhance.png"
+  },
+  {
+   "name": "VIP",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/VIP.png"
+  },
+  {
+   "name": "Server",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Server.png"
+  },
+  {
+   "name": "Airport",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Airport.png"
+  },
+  {
+   "name": "Apple",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Apple.png"
+  },
+  {
+   "name": "App_Store",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/App_Store.png"
+  },
+  {
+   "name": "Apple_Music",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Apple_Music.png"
+  },
+  {
+   "name": "Apple_TV",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Apple_TV.png"
+  },
+  {
+   "name": "Apple_News",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Apple_News.png"
+  },
+  {
+   "name": "iCloud",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/iCloud.png"
+  },
+  {
+   "name": "Find_My",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Find_My.png"
+  },
+  {
+   "name": "Google",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Google.png"
+  },
+  {
+   "name": "Gmail",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Gmail.png"
+  },
+  {
+   "name": "Google_Drive",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Google_Drive.png"
+  },
+  {
+   "name": "Google_Search",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Google_Search.png"
+  },
+  {
+   "name": "Google_Opinion_Rewards",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Google_Opinion_Rewards.png"
+  },
+  {
+   "name": "Microsoft",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Microsoft.png"
+  },
+  {
+   "name": "Windows",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Windows.png"
+  },
+  {
+   "name": "Windows_11",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Windows_11.png"
+  },
+  {
+   "name": "OneDrive",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/OneDrive.png"
+  },
+  {
+   "name": "Azure",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Azure.png"
+  },
+  {
+   "name": "Copilot",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Copilot.png"
+  },
+  {
+   "name": "Xbox",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Xbox.png"
+  },
+  {
+   "name": "ChatGPT",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/ChatGPT.png"
+  },
+  {
+   "name": "GitHub",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/GitHub.png"
+  },
+  {
+   "name": "GitHub_Letter",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/GitHub_Letter.png"
+  },
+  {
+   "name": "Notion",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Notion.png"
+  },
+  {
+   "name": "Cloudflare",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Cloudflare.png"
+  },
+  {
+   "name": "Facebook",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Facebook.png"
+  },
+  {
+   "name": "Instagram",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Instagram.png"
+  },
+  {
+   "name": "Twitter",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Twitter.png"
+  },
+  {
+   "name": "X",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/X.png"
+  },
+  {
+   "name": "TikTok",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/TikTok.png"
+  },
+  {
+   "name": "Telegram",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Telegram.png"
+  },
+  {
+   "name": "Telegram_X",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Telegram_X.png"
+  },
+  {
+   "name": "Linkedin",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Linkedin.png"
+  },
+  {
+   "name": "Discord",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Discord.png"
+  },
+  {
+   "name": "Clubhouse",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Clubhouse.png"
+  },
+  {
+   "name": "Line",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Line.png"
+  },
+  {
+   "name": "Kakao",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Kakao.png"
+  },
+  {
+   "name": "WeChat",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/WeChat.png"
+  },
+  {
+   "name": "Weibo",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Weibo.png"
+  },
+  {
+   "name": "bilibili",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/bilibili.png"
+  },
+  {
+   "name": "iQIYI",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/iQIYI.png"
+  },
+  {
+   "name": "Taobao",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Taobao.png"
+  },
+  {
+   "name": "Alibaba",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Alibaba.png"
+  },
+  {
+   "name": "Netease_Music",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Netease_Music.png"
+  },
+  {
+   "name": "QQ",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/QQ.png"
+  },
+  {
+   "name": "Spotify",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Spotify.png"
+  },
+  {
+   "name": "deezer",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/deezer.png"
+  },
+  {
+   "name": "TIDAL",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/TIDAL.png"
+  },
+  {
+   "name": "Pandora",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Pandora.png"
+  },
+  {
+   "name": "KKBOX",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/KKBOX.png"
+  },
+  {
+   "name": "JOOX",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/JOOX.png"
+  },
+  {
+   "name": "YouTube_Music",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/YouTube_Music.png"
+  },
+  {
+   "name": "YouTube",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/YouTube.png"
+  },
+  {
+   "name": "Netflix",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Netflix.png"
+  },
+  {
+   "name": "Disney+",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/DisneyPlus.png"
+  },
+  {
+   "name": "HBO",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/HBO.png"
+  },
+  {
+   "name": "HBO_Max",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/HBO_Max.png"
+  },
+  {
+   "name": "HBO_GO",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/HBO_GO.png"
+  },
+  {
+   "name": "Prime_Video",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Prime_Video.png"
+  },
+  {
+   "name": "Hulu",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Hulu.png"
+  },
+  {
+   "name": "Peacock",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Peacock.png"
+  },
+  {
+   "name": "Paramount",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Paramount.png"
+  },
+  {
+   "name": "Star+",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/StarPlus.png"
+  },
+  {
+   "name": "STARZ",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/STARZ.png"
+  },
+  {
+   "name": "ESPN+",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/ESPNPlus.png"
+  },
+  {
+   "name": "DAZN",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/DAZN.png"
+  },
+  {
+   "name": "Tubi",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Tubi.png"
+  },
+  {
+   "name": "discovery+",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/discoveryPlus.png"
+  },
+  {
+   "name": "Vimeo",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Vimeo.png"
+  },
+  {
+   "name": "Steam",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Steam.png"
+  },
+  {
+   "name": "PlayStation",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/PlayStation.png"
+  },
+  {
+   "name": "Nintendo",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Nintendo.png"
+  },
+  {
+   "name": "Epic_Games",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Epic_Games.png"
+  },
+  {
+   "name": "League_of_Legends",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/League_of_Legends.png"
+  },
+  {
+   "name": "Twitch",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Twitch.png"
+  },
+  {
+   "name": "niconico",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/niconico.png"
+  },
+  {
+   "name": "AbemaTV",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/AbemaTV.png"
+  },
+  {
+   "name": "AfreecaTV",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/AfreecaTV.png"
+  },
+  {
+   "name": "Bahamut",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Bahamut.png"
+  },
+  {
+   "name": "KKTV",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/KKTV.png"
+  },
+  {
+   "name": "Viu",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Viu.png"
+  },
+  {
+   "name": "ViuTV",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/ViuTV.png"
+  },
+  {
+   "name": "WeTV",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/WeTV.png"
+  },
+  {
+   "name": "BBC_iPlayer",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/BBC_iPlayer.png"
+  },
+  {
+   "name": "ITV",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/ITV.png"
+  },
+  {
+   "name": "My5",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/My5.png"
+  },
+  {
+   "name": "All4",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/All4.png"
+  },
+  {
+   "name": "FOX",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/FOX.png"
+  },
+  {
+   "name": "NBC",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/NBC.png"
+  },
+  {
+   "name": "NBA",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/NBA.png"
+  },
+  {
+   "name": "PBS",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/PBS.png"
+  },
+  {
+   "name": "Yahoo",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Yahoo.png"
+  },
+  {
+   "name": "Amazon",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Amazon.png"
+  },
+  {
+   "name": "PayPal",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/PayPal.png"
+  },
+  {
+   "name": "Emby",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Emby.png"
+  },
+  {
+   "name": "Infuse",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Infuse.png"
+  },
+  {
+   "name": "TestFlight",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/TestFlight.png"
+  },
+  {
+   "name": "Zhihu",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Zhihu.png"
+  },
+  {
+   "name": "Xiaohongshu",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Xiaohongshu.png"
+  },
+  {
+   "name": "Baidu",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Baidu.png"
+  },
+  {
+   "name": "Kuaishou",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Kuaishou.png"
+  },
+  {
+   "name": "Douban",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Douban.png"
+  },
+  {
+   "name": "Meituan",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Meituan.png"
+  },
+  {
+   "name": "Alipay",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Alipay.png"
+  },
+  {
+   "name": "Xiaomi",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Xiaomi.png"
+  },
+  {
+   "name": "Huawei",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Huawei.png"
+  },
+  {
+   "name": "Trip",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Trip.png"
+  },
+  {
+   "name": "WhatsApp",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/WhatsApp.png"
+  },
+  {
+   "name": "Reddit",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Reddit.png"
+  },
+  {
+   "name": "Pinterest",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Pinterest.png"
+  },
+  {
+   "name": "Snapchat",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Snapchat.png"
+  },
+  {
+   "name": "Signal",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Signal.png"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Wikipedia.png"
+  },
+  {
+   "name": "Zoom",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Zoom.png"
+  },
+  {
+   "name": "Figma",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Figma.png"
+  },
+  {
+   "name": "Dropbox",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Dropbox.png"
+  },
+  {
+   "name": "Bitwarden",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Bitwarden.png"
+  },
+  {
+   "name": "OnePassword",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/OnePassword.png"
+  },
+  {
+   "name": "Claude",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Claude.png"
+  },
+  {
+   "name": "Anthropic",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Anthropic.png"
+  },
+  {
+   "name": "Perplexity",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Perplexity.png"
+  },
+  {
+   "name": "HuggingFace",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/HuggingFace.png"
+  },
+  {
+   "name": "Binance",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Binance.png"
+  },
+  {
+   "name": "Coinbase",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Coinbase.png"
+  },
+  {
+   "name": "OKX",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/OKX.png"
+  },
+  {
+   "name": "Stripe",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Stripe.png"
+  },
+  {
+   "name": "Wise",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Wise.png"
+  },
+  {
+   "name": "ExpressVPN",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/ExpressVPN.png"
+  },
+  {
+   "name": "NordVPN",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/NordVPN.png"
+  },
+  {
+   "name": "ProtonMail",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/ProtonMail.png"
+  },
+  {
+   "name": "OnlyFans",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/OnlyFans.png"
+  },
+  {
+   "name": "Docker",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Docker.png"
+  },
+  {
+   "name": "Ubuntu",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Ubuntu.png"
+  },
+  {
+   "name": "Debian",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Debian.png"
+  },
+  {
+   "name": "RedHat",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/RedHat.png"
+  },
+  {
+   "name": "NVIDIA",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/NVIDIA.png"
+  },
+  {
+   "name": "AMD",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/AMD.png"
+  },
+  {
+   "name": "Intel",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Intel.png"
+  },
+  {
+   "name": "Qualcomm",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Qualcomm.png"
+  },
+  {
+   "name": "Shopify",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Shopify.png"
+  },
+  {
+   "name": "WordPress",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/WordPress.png"
+  },
+  {
+   "name": "Crunchyroll",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Crunchyroll.png"
+  },
+  {
+   "name": "Duolingo",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Duolingo.png"
+  },
+  {
+   "name": "Coursera",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Coursera.png"
+  },
+  {
+   "name": "Udemy",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Udemy.png"
+  },
+  {
+   "name": "Starbucks",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Starbucks.png"
+  },
+  {
+   "name": "KFC",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/KFC.png"
+  },
+  {
+   "name": "China (CN)",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/cn.png"
+  },
+  {
+   "name": "Hong Kong (HK)",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/hk.png"
+  },
+  {
+   "name": "Taiwan (TW)",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/tw.png"
+  },
+  {
+   "name": "Macao (MO)",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/mo.png"
+  },
+  {
+   "name": "Japan (JP)",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/jp.png"
+  },
+  {
+   "name": "South Korea (KR)",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/kr.png"
+  },
+  {
+   "name": "Singapore (SG)",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/sg.png"
+  },
+  {
+   "name": "Malaysia (MY)",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/my.png"
+  },
+  {
+   "name": "Thailand (TH)",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/th.png"
+  },
+  {
+   "name": "Vietnam (VN)",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/vn.png"
+  },
+  {
+   "name": "Philippines (PH)",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/ph.png"
+  },
+  {
+   "name": "Indonesia (ID)",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/id.png"
+  },
+  {
+   "name": "India (IN)",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/in.png"
+  },
+  {
+   "name": "Pakistan (PK)",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/pk.png"
+  },
+  {
+   "name": "Bangladesh (BD)",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/bd.png"
+  },
+  {
+   "name": "Sri Lanka (LK)",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/lk.png"
+  },
+  {
+   "name": "Nepal (NP)",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/np.png"
+  },
+  {
+   "name": "Cambodia (KH)",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/kh.png"
+  },
+  {
+   "name": "Myanmar (MM)",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/mm.png"
+  },
+  {
+   "name": "Mongolia (MN)",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/mn.png"
+  },
+  {
+   "name": "United States (US)",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/us.png"
+  },
+  {
+   "name": "Canada (CA)",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/ca.png"
+  },
+  {
+   "name": "Mexico (MX)",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/mx.png"
+  },
+  {
+   "name": "Brazil (BR)",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/br.png"
+  },
+  {
+   "name": "Argentina (AR)",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/ar.png"
+  },
+  {
+   "name": "Chile (CL)",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/cl.png"
+  },
+  {
+   "name": "Peru (PE)",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/pe.png"
+  },
+  {
+   "name": "Colombia (CO)",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/co.png"
+  },
+  {
+   "name": "Venezuela (VE)",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/ve.png"
+  },
+  {
+   "name": "Panama (PA)",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/pa.png"
+  },
+  {
+   "name": "United Kingdom (GB)",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/gb.png"
+  },
+  {
+   "name": "Ireland (IE)",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/ie.png"
+  },
+  {
+   "name": "France (FR)",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/fr.png"
+  },
+  {
+   "name": "Germany (DE)",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/de.png"
+  },
+  {
+   "name": "Netherlands (NL)",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/nl.png"
+  },
+  {
+   "name": "Belgium (BE)",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/be.png"
+  },
+  {
+   "name": "Luxembourg (LU)",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/lu.png"
+  },
+  {
+   "name": "Switzerland (CH)",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/ch.png"
+  },
+  {
+   "name": "Austria (AT)",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/at.png"
+  },
+  {
+   "name": "Italy (IT)",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/it.png"
+  },
+  {
+   "name": "Spain (ES)",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/es.png"
+  },
+  {
+   "name": "Portugal (PT)",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/pt.png"
+  },
+  {
+   "name": "Greece (GR)",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/gr.png"
+  },
+  {
+   "name": "Sweden (SE)",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/se.png"
+  },
+  {
+   "name": "Norway (NO)",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/no.png"
+  },
+  {
+   "name": "Denmark (DK)",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/dk.png"
+  },
+  {
+   "name": "Finland (FI)",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/fi.png"
+  },
+  {
+   "name": "Iceland (IS)",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/is.png"
+  },
+  {
+   "name": "Poland (PL)",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/pl.png"
+  },
+  {
+   "name": "Czechia (CZ)",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/cz.png"
+  },
+  {
+   "name": "Slovakia (SK)",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/sk.png"
+  },
+  {
+   "name": "Hungary (HU)",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/hu.png"
+  },
+  {
+   "name": "Romania (RO)",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/ro.png"
+  },
+  {
+   "name": "Bulgaria (BG)",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/bg.png"
+  },
+  {
+   "name": "Croatia (HR)",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/hr.png"
+  },
+  {
+   "name": "Serbia (RS)",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/rs.png"
+  },
+  {
+   "name": "Slovenia (SI)",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/si.png"
+  },
+  {
+   "name": "Estonia (EE)",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/ee.png"
+  },
+  {
+   "name": "Latvia (LV)",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/lv.png"
+  },
+  {
+   "name": "Lithuania (LT)",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/lt.png"
+  },
+  {
+   "name": "Ukraine (UA)",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/ua.png"
+  },
+  {
+   "name": "Belarus (BY)",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/by.png"
+  },
+  {
+   "name": "Russia (RU)",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/ru.png"
+  },
+  {
+   "name": "Turkey (TR)",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/tr.png"
+  },
+  {
+   "name": "Moldova (MD)",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/md.png"
+  },
+  {
+   "name": "Cyprus (CY)",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/cy.png"
+  },
+  {
+   "name": "Malta (MT)",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/mt.png"
+  },
+  {
+   "name": "Australia (AU)",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/au.png"
+  },
+  {
+   "name": "New Zealand (NZ)",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/nz.png"
+  },
+  {
+   "name": "South Africa (ZA)",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/za.png"
+  },
+  {
+   "name": "Egypt (EG)",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/eg.png"
+  },
+  {
+   "name": "Nigeria (NG)",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/ng.png"
+  },
+  {
+   "name": "Kenya (KE)",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/ke.png"
+  },
+  {
+   "name": "Morocco (MA)",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/ma.png"
+  },
+  {
+   "name": "Tanzania (TZ)",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/tz.png"
+  },
+  {
+   "name": "Ghana (GH)",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/gh.png"
+  },
+  {
+   "name": "Saudi Arabia (SA)",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/sa.png"
+  },
+  {
+   "name": "United Arab Emirates (AE)",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/ae.png"
+  },
+  {
+   "name": "Israel (IL)",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/il.png"
+  },
+  {
+   "name": "Qatar (QA)",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/qa.png"
+  },
+  {
+   "name": "Kuwait (KW)",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/kw.png"
+  },
+  {
+   "name": "Iran (IR)",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/ir.png"
+  },
+  {
+   "name": "Iraq (IQ)",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/iq.png"
+  },
+  {
+   "name": "Jordan (JO)",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/jo.png"
+  },
+  {
+   "name": "Lebanon (LB)",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/lb.png"
+  },
+  {
+   "name": "Kazakhstan (KZ)",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/kz.png"
+  },
+  {
+   "name": "Uzbekistan (UZ)",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/uz.png"
+  },
+  {
+   "name": "European Union (EU)",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/eu.png"
+  },
+  {
+   "name": "United Nations (UN)",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/un.png"
+  },
+  {
+   "name": "Region CN",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/CN.png"
+  },
+  {
+   "name": "Region HK",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/HK.png"
+  },
+  {
+   "name": "Region TW",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/TW.png"
+  },
+  {
+   "name": "Region MO",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/MO.png"
+  },
+  {
+   "name": "Region JP",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/JP.png"
+  },
+  {
+   "name": "Region KR",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/KR.png"
+  },
+  {
+   "name": "Region SG",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/SG.png"
+  },
+  {
+   "name": "Region MY",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/MY.png"
+  },
+  {
+   "name": "Region TH",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/TH.png"
+  },
+  {
+   "name": "Region PH",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/PH.png"
+  },
+  {
+   "name": "Region IN",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/IN.png"
+  },
+  {
+   "name": "Region AU",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/AU.png"
+  },
+  {
+   "name": "Region US",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/US.png"
+  },
+  {
+   "name": "Region CA",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/CA.png"
+  },
+  {
+   "name": "Region BR",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/BR.png"
+  },
+  {
+   "name": "Region UK",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/UK.png"
+  },
+  {
+   "name": "Region DE",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/DE.png"
+  },
+  {
+   "name": "Region FR",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/FR.png"
+  },
+  {
+   "name": "Region RU",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/RU.png"
+  },
+  {
+   "name": "Region FI",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/FI.png"
+  },
+  {
+   "name": "Region UA",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/UA.png"
+  },
+  {
+   "name": "Region TR",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/TR.png"
+  },
+  {
+   "name": "Region EG",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/EG.png"
+  },
+  {
+   "name": "Region EU",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/EU.png"
+  },
+  {
+   "name": "Region UN",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/UN.png"
+  }
+ ]
+}

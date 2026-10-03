@@ -1,0 +1,32 @@
+# Stash 覆写配置示例（Override）
+# 放到 iCloud/Stash/Override 或 App 内「覆写」目录，即可给订阅里的策略组自动挂图标。
+# 文档：https://stash.wiki/configuration/proxy-group-icon
+#
+# base-url = https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/
+
+proxy-groups:
+  - name: "🚀 节点选择"
+    type: select
+    icon: https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Proxy.png
+    proxies:
+      - "♻️ 自动选择"
+      - DIRECT
+
+  - name: "♻️ 自动选择"
+    type: url-test
+    icon: https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Auto.png
+    interval: 300
+
+  - name: "🌍 国外媒体"
+    type: select
+    icon: https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/ForeignMedia.png
+    proxies:
+      - "🚀 节点选择"
+      - DIRECT
+
+  - name: "🛑 广告拦截"
+    type: select
+    icon: https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/AdBlack.png
+    proxies:
+      - REJECT
+      - DIRECT

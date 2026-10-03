@@ -1,0 +1,2457 @@
+{
+ "name": "Stash 彩色图标集",
+ "name_en": "Stash Color Icons",
+ "description": "主流国内外网站彩色图标（Qure + simple-icons）＋ 75 国国旗（圆形 / 圆角方形）。含中文别名与分类索引。",
+ "base_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/",
+ "count": {
+  "icons": 175,
+  "flags": 89,
+  "regions": 25
+ },
+ "sites": [
+  {
+   "file": "icons/Direct.png",
+   "key": "Direct",
+   "zh": "直连",
+   "category": "策略组",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Direct.png"
+  },
+  {
+   "file": "icons/Proxy.png",
+   "key": "Proxy",
+   "zh": "代理",
+   "category": "策略组",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Proxy.png"
+  },
+  {
+   "file": "icons/Reject.png",
+   "key": "Reject",
+   "zh": "拒绝",
+   "category": "策略组",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Reject.png"
+  },
+  {
+   "file": "icons/Final.png",
+   "key": "Final",
+   "zh": "兜底分流",
+   "category": "策略组",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Final.png"
+  },
+  {
+   "file": "icons/Global.png",
+   "key": "Global",
+   "zh": "全球",
+   "category": "策略组",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Global.png"
+  },
+  {
+   "file": "icons/Auto.png",
+   "key": "Auto",
+   "zh": "自动选择",
+   "category": "策略组",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Auto.png"
+  },
+  {
+   "file": "icons/Static.png",
+   "key": "Static",
+   "zh": "手动选择",
+   "category": "策略组",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Static.png"
+  },
+  {
+   "file": "icons/Available.png",
+   "key": "Available",
+   "zh": "故障转移",
+   "category": "策略组",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Available.png"
+  },
+  {
+   "file": "icons/Loop.png",
+   "key": "Loop",
+   "zh": "负载均衡",
+   "category": "策略组",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Loop.png"
+  },
+  {
+   "file": "icons/Speedtest.png",
+   "key": "Speedtest",
+   "zh": "延迟测速",
+   "category": "策略组",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Speedtest.png"
+  },
+  {
+   "file": "icons/Download.png",
+   "key": "Download",
+   "zh": "下载",
+   "category": "策略组",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Download.png"
+  },
+  {
+   "file": "icons/AdBlack.png",
+   "key": "AdBlack",
+   "zh": "广告拦截",
+   "category": "策略组",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/AdBlack.png"
+  },
+  {
+   "file": "icons/Advertising.png",
+   "key": "Advertising",
+   "zh": "广告拦截(白)",
+   "category": "策略组",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Advertising.png"
+  },
+  {
+   "file": "icons/Hijacking.png",
+   "key": "Hijacking",
+   "zh": "域名劫持",
+   "category": "策略组",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Hijacking.png"
+  },
+  {
+   "file": "icons/Bypass.png",
+   "key": "Bypass",
+   "zh": "绕过",
+   "category": "策略组",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Bypass.png"
+  },
+  {
+   "file": "icons/Back.png",
+   "key": "Back",
+   "zh": "回国",
+   "category": "策略组",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Back.png"
+  },
+  {
+   "file": "icons/Area.png",
+   "key": "Area",
+   "zh": "地区",
+   "category": "策略组",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Area.png"
+  },
+  {
+   "file": "icons/Domestic.png",
+   "key": "Domestic",
+   "zh": "国内流量",
+   "category": "策略组",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Domestic.png"
+  },
+  {
+   "file": "icons/ForeignMedia.png",
+   "key": "ForeignMedia",
+   "zh": "国外媒体",
+   "category": "策略组",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/ForeignMedia.png"
+  },
+  {
+   "file": "icons/DomesticMedia.png",
+   "key": "DomesticMedia",
+   "zh": "国内媒体",
+   "category": "策略组",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/DomesticMedia.png"
+  },
+  {
+   "file": "icons/Media.png",
+   "key": "Media",
+   "zh": "媒体",
+   "category": "策略组",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Media.png"
+  },
+  {
+   "file": "icons/Game.png",
+   "key": "Game",
+   "zh": "游戏平台",
+   "category": "策略组",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Game.png"
+  },
+  {
+   "file": "icons/Streaming.png",
+   "key": "Streaming",
+   "zh": "国际流媒体",
+   "category": "策略组",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Streaming.png"
+  },
+  {
+   "file": "icons/StreamingCN.png",
+   "key": "StreamingCN",
+   "zh": "国内流媒体",
+   "category": "策略组",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/StreamingCN.png"
+  },
+  {
+   "file": "icons/Unlock.png",
+   "key": "Unlock",
+   "zh": "解锁",
+   "category": "策略组",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Unlock.png"
+  },
+  {
+   "file": "icons/Music_Enhance.png",
+   "key": "Music_Enhance",
+   "zh": "音乐解锁",
+   "category": "策略组",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Music_Enhance.png"
+  },
+  {
+   "file": "icons/VIP.png",
+   "key": "VIP",
+   "zh": "会员",
+   "category": "策略组",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/VIP.png"
+  },
+  {
+   "file": "icons/Server.png",
+   "key": "Server",
+   "zh": "服务器",
+   "category": "策略组",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Server.png"
+  },
+  {
+   "file": "icons/Airport.png",
+   "key": "Airport",
+   "zh": "机场",
+   "category": "策略组",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Airport.png"
+  },
+  {
+   "file": "icons/Apple.png",
+   "key": "Apple",
+   "zh": "苹果",
+   "category": "苹果服务",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Apple.png"
+  },
+  {
+   "file": "icons/App_Store.png",
+   "key": "App_Store",
+   "zh": "App Store",
+   "category": "苹果服务",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/App_Store.png"
+  },
+  {
+   "file": "icons/Apple_Music.png",
+   "key": "Apple_Music",
+   "zh": "Apple Music",
+   "category": "苹果服务",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Apple_Music.png"
+  },
+  {
+   "file": "icons/Apple_TV.png",
+   "key": "Apple_TV",
+   "zh": "Apple TV",
+   "category": "苹果服务",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Apple_TV.png"
+  },
+  {
+   "file": "icons/Apple_News.png",
+   "key": "Apple_News",
+   "zh": "Apple News",
+   "category": "苹果服务",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Apple_News.png"
+  },
+  {
+   "file": "icons/iCloud.png",
+   "key": "iCloud",
+   "zh": "iCloud",
+   "category": "苹果服务",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/iCloud.png"
+  },
+  {
+   "file": "icons/Find_My.png",
+   "key": "Find_My",
+   "zh": "查找",
+   "category": "苹果服务",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Find_My.png"
+  },
+  {
+   "file": "icons/Google.png",
+   "key": "Google",
+   "zh": "谷歌",
+   "category": "谷歌服务",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Google.png"
+  },
+  {
+   "file": "icons/Gmail.png",
+   "key": "Gmail",
+   "zh": "Gmail",
+   "category": "谷歌服务",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Gmail.png"
+  },
+  {
+   "file": "icons/Google_Drive.png",
+   "key": "Google_Drive",
+   "zh": "谷歌云端硬盘",
+   "category": "谷歌服务",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Google_Drive.png"
+  },
+  {
+   "file": "icons/Google_Search.png",
+   "key": "Google_Search",
+   "zh": "谷歌搜索",
+   "category": "谷歌服务",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Google_Search.png"
+  },
+  {
+   "file": "icons/Google_Opinion_Rewards.png",
+   "key": "Google_Opinion_Rewards",
+   "zh": "谷歌意见回报",
+   "category": "谷歌服务",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Google_Opinion_Rewards.png"
+  },
+  {
+   "file": "icons/Microsoft.png",
+   "key": "Microsoft",
+   "zh": "微软",
+   "category": "微软服务",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Microsoft.png"
+  },
+  {
+   "file": "icons/Windows.png",
+   "key": "Windows",
+   "zh": "Windows",
+   "category": "微软服务",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Windows.png"
+  },
+  {
+   "file": "icons/Windows_11.png",
+   "key": "Windows_11",
+   "zh": "Windows 11",
+   "category": "微软服务",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Windows_11.png"
+  },
+  {
+   "file": "icons/OneDrive.png",
+   "key": "OneDrive",
+   "zh": "OneDrive",
+   "category": "微软服务",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/OneDrive.png"
+  },
+  {
+   "file": "icons/Azure.png",
+   "key": "Azure",
+   "zh": "Azure",
+   "category": "微软服务",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Azure.png"
+  },
+  {
+   "file": "icons/Copilot.png",
+   "key": "Copilot",
+   "zh": "Copilot",
+   "category": "微软服务",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Copilot.png"
+  },
+  {
+   "file": "icons/Xbox.png",
+   "key": "Xbox",
+   "zh": "Xbox",
+   "category": "微软服务",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Xbox.png"
+  },
+  {
+   "file": "icons/ChatGPT.png",
+   "key": "ChatGPT",
+   "zh": "ChatGPT",
+   "category": "人工智能",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/ChatGPT.png"
+  },
+  {
+   "file": "icons/GitHub.png",
+   "key": "GitHub",
+   "zh": "GitHub",
+   "category": "开发工具",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/GitHub.png"
+  },
+  {
+   "file": "icons/GitHub_Letter.png",
+   "key": "GitHub_Letter",
+   "zh": "GitHub 文字版",
+   "category": "开发工具",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/GitHub_Letter.png"
+  },
+  {
+   "file": "icons/Notion.png",
+   "key": "Notion",
+   "zh": "Notion",
+   "category": "开发工具",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Notion.png"
+  },
+  {
+   "file": "icons/Cloudflare.png",
+   "key": "Cloudflare",
+   "zh": "Cloudflare",
+   "category": "云服务",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Cloudflare.png"
+  },
+  {
+   "file": "icons/Facebook.png",
+   "key": "Facebook",
+   "zh": "Facebook",
+   "category": "社交媒体",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Facebook.png"
+  },
+  {
+   "file": "icons/Instagram.png",
+   "key": "Instagram",
+   "zh": "Instagram",
+   "category": "社交媒体",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Instagram.png"
+  },
+  {
+   "file": "icons/Twitter.png",
+   "key": "Twitter",
+   "zh": "Twitter",
+   "category": "社交媒体",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Twitter.png"
+  },
+  {
+   "file": "icons/X.png",
+   "key": "X",
+   "zh": "X",
+   "category": "社交媒体",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/X.png"
+  },
+  {
+   "file": "icons/TikTok.png",
+   "key": "TikTok",
+   "zh": "TikTok",
+   "category": "社交媒体",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/TikTok.png"
+  },
+  {
+   "file": "icons/Telegram.png",
+   "key": "Telegram",
+   "zh": "Telegram",
+   "category": "社交媒体",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Telegram.png"
+  },
+  {
+   "file": "icons/Telegram_X.png",
+   "key": "Telegram_X",
+   "zh": "Telegram X",
+   "category": "社交媒体",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Telegram_X.png"
+  },
+  {
+   "file": "icons/Linkedin.png",
+   "key": "Linkedin",
+   "zh": "领英",
+   "category": "社交媒体",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Linkedin.png"
+  },
+  {
+   "file": "icons/Discord.png",
+   "key": "Discord",
+   "zh": "Discord",
+   "category": "社交媒体",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Discord.png"
+  },
+  {
+   "file": "icons/Clubhouse.png",
+   "key": "Clubhouse",
+   "zh": "Clubhouse",
+   "category": "社交媒体",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Clubhouse.png"
+  },
+  {
+   "file": "icons/Line.png",
+   "key": "Line",
+   "zh": "LINE",
+   "category": "社交媒体",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Line.png"
+  },
+  {
+   "file": "icons/Kakao.png",
+   "key": "Kakao",
+   "zh": "KakaoTalk",
+   "category": "社交媒体",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Kakao.png"
+  },
+  {
+   "file": "icons/WeChat.png",
+   "key": "WeChat",
+   "zh": "微信",
+   "category": "国内站点",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/WeChat.png"
+  },
+  {
+   "file": "icons/Weibo.png",
+   "key": "Weibo",
+   "zh": "微博",
+   "category": "国内站点",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Weibo.png"
+  },
+  {
+   "file": "icons/bilibili.png",
+   "key": "bilibili",
+   "zh": "哔哩哔哩",
+   "category": "国内站点",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/bilibili.png"
+  },
+  {
+   "file": "icons/iQIYI.png",
+   "key": "iQIYI",
+   "zh": "爱奇艺",
+   "category": "国内站点",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/iQIYI.png"
+  },
+  {
+   "file": "icons/Taobao.png",
+   "key": "Taobao",
+   "zh": "淘宝",
+   "category": "国内站点",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Taobao.png"
+  },
+  {
+   "file": "icons/Alibaba.png",
+   "key": "Alibaba",
+   "zh": "阿里巴巴",
+   "category": "国内站点",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Alibaba.png"
+  },
+  {
+   "file": "icons/Netease_Music.png",
+   "key": "Netease_Music",
+   "zh": "网易云音乐",
+   "category": "国内站点",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Netease_Music.png"
+  },
+  {
+   "file": "icons/QQ.png",
+   "key": "QQ",
+   "zh": "QQ",
+   "category": "国内站点",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/QQ.png"
+  },
+  {
+   "file": "icons/Spotify.png",
+   "key": "Spotify",
+   "zh": "Spotify",
+   "category": "音乐",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Spotify.png"
+  },
+  {
+   "file": "icons/deezer.png",
+   "key": "deezer",
+   "zh": "Deezer",
+   "category": "音乐",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/deezer.png"
+  },
+  {
+   "file": "icons/TIDAL.png",
+   "key": "TIDAL",
+   "zh": "TIDAL",
+   "category": "音乐",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/TIDAL.png"
+  },
+  {
+   "file": "icons/Pandora.png",
+   "key": "Pandora",
+   "zh": "Pandora",
+   "category": "音乐",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Pandora.png"
+  },
+  {
+   "file": "icons/KKBOX.png",
+   "key": "KKBOX",
+   "zh": "KKBOX",
+   "category": "音乐",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/KKBOX.png"
+  },
+  {
+   "file": "icons/JOOX.png",
+   "key": "JOOX",
+   "zh": "JOOX",
+   "category": "音乐",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/JOOX.png"
+  },
+  {
+   "file": "icons/YouTube_Music.png",
+   "key": "YouTube_Music",
+   "zh": "YouTube Music",
+   "category": "音乐",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/YouTube_Music.png"
+  },
+  {
+   "file": "icons/YouTube.png",
+   "key": "YouTube",
+   "zh": "YouTube",
+   "category": "流媒体",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/YouTube.png"
+  },
+  {
+   "file": "icons/Netflix.png",
+   "key": "Netflix",
+   "zh": "Netflix",
+   "category": "流媒体",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Netflix.png"
+  },
+  {
+   "file": "icons/DisneyPlus.png",
+   "key": "Disney+",
+   "zh": "Disney+",
+   "category": "流媒体",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/DisneyPlus.png"
+  },
+  {
+   "file": "icons/HBO.png",
+   "key": "HBO",
+   "zh": "HBO",
+   "category": "流媒体",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/HBO.png"
+  },
+  {
+   "file": "icons/HBO_Max.png",
+   "key": "HBO_Max",
+   "zh": "HBO Max",
+   "category": "流媒体",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/HBO_Max.png"
+  },
+  {
+   "file": "icons/HBO_GO.png",
+   "key": "HBO_GO",
+   "zh": "HBO GO",
+   "category": "流媒体",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/HBO_GO.png"
+  },
+  {
+   "file": "icons/Prime_Video.png",
+   "key": "Prime_Video",
+   "zh": "Prime Video",
+   "category": "流媒体",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Prime_Video.png"
+  },
+  {
+   "file": "icons/Hulu.png",
+   "key": "Hulu",
+   "zh": "Hulu",
+   "category": "流媒体",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Hulu.png"
+  },
+  {
+   "file": "icons/Peacock.png",
+   "key": "Peacock",
+   "zh": "Peacock",
+   "category": "流媒体",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Peacock.png"
+  },
+  {
+   "file": "icons/Paramount.png",
+   "key": "Paramount",
+   "zh": "Paramount+",
+   "category": "流媒体",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Paramount.png"
+  },
+  {
+   "file": "icons/StarPlus.png",
+   "key": "Star+",
+   "zh": "Star+",
+   "category": "流媒体",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/StarPlus.png"
+  },
+  {
+   "file": "icons/STARZ.png",
+   "key": "STARZ",
+   "zh": "STARZ",
+   "category": "流媒体",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/STARZ.png"
+  },
+  {
+   "file": "icons/ESPNPlus.png",
+   "key": "ESPN+",
+   "zh": "ESPN+",
+   "category": "流媒体",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/ESPNPlus.png"
+  },
+  {
+   "file": "icons/DAZN.png",
+   "key": "DAZN",
+   "zh": "DAZN",
+   "category": "流媒体",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/DAZN.png"
+  },
+  {
+   "file": "icons/Tubi.png",
+   "key": "Tubi",
+   "zh": "Tubi",
+   "category": "流媒体",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Tubi.png"
+  },
+  {
+   "file": "icons/discoveryPlus.png",
+   "key": "discovery+",
+   "zh": "discovery+",
+   "category": "流媒体",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/discoveryPlus.png"
+  },
+  {
+   "file": "icons/Vimeo.png",
+   "key": "Vimeo",
+   "zh": "Vimeo",
+   "category": "流媒体",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Vimeo.png"
+  },
+  {
+   "file": "icons/Steam.png",
+   "key": "Steam",
+   "zh": "Steam",
+   "category": "游戏",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Steam.png"
+  },
+  {
+   "file": "icons/PlayStation.png",
+   "key": "PlayStation",
+   "zh": "PlayStation",
+   "category": "游戏",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/PlayStation.png"
+  },
+  {
+   "file": "icons/Nintendo.png",
+   "key": "Nintendo",
+   "zh": "任天堂",
+   "category": "游戏",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Nintendo.png"
+  },
+  {
+   "file": "icons/Epic_Games.png",
+   "key": "Epic_Games",
+   "zh": "Epic Games",
+   "category": "游戏",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Epic_Games.png"
+  },
+  {
+   "file": "icons/League_of_Legends.png",
+   "key": "League_of_Legends",
+   "zh": "英雄联盟",
+   "category": "游戏",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/League_of_Legends.png"
+  },
+  {
+   "file": "icons/Twitch.png",
+   "key": "Twitch",
+   "zh": "Twitch",
+   "category": "直播",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Twitch.png"
+  },
+  {
+   "file": "icons/niconico.png",
+   "key": "niconico",
+   "zh": "niconico",
+   "category": "亚洲媒体",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/niconico.png"
+  },
+  {
+   "file": "icons/AbemaTV.png",
+   "key": "AbemaTV",
+   "zh": "AbemaTV",
+   "category": "亚洲媒体",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/AbemaTV.png"
+  },
+  {
+   "file": "icons/AfreecaTV.png",
+   "key": "AfreecaTV",
+   "zh": "AfreecaTV",
+   "category": "亚洲媒体",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/AfreecaTV.png"
+  },
+  {
+   "file": "icons/Bahamut.png",
+   "key": "Bahamut",
+   "zh": "巴哈姆特",
+   "category": "亚洲媒体",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Bahamut.png"
+  },
+  {
+   "file": "icons/KKTV.png",
+   "key": "KKTV",
+   "zh": "KKTV",
+   "category": "亚洲媒体",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/KKTV.png"
+  },
+  {
+   "file": "icons/Viu.png",
+   "key": "Viu",
+   "zh": "Viu",
+   "category": "亚洲媒体",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Viu.png"
+  },
+  {
+   "file": "icons/ViuTV.png",
+   "key": "ViuTV",
+   "zh": "ViuTV",
+   "category": "亚洲媒体",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/ViuTV.png"
+  },
+  {
+   "file": "icons/WeTV.png",
+   "key": "WeTV",
+   "zh": "腾讯视频 WeTV",
+   "category": "亚洲媒体",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/WeTV.png"
+  },
+  {
+   "file": "icons/BBC_iPlayer.png",
+   "key": "BBC_iPlayer",
+   "zh": "BBC iPlayer",
+   "category": "欧美电视",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/BBC_iPlayer.png"
+  },
+  {
+   "file": "icons/ITV.png",
+   "key": "ITV",
+   "zh": "ITV",
+   "category": "欧美电视",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/ITV.png"
+  },
+  {
+   "file": "icons/My5.png",
+   "key": "My5",
+   "zh": "My5",
+   "category": "欧美电视",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/My5.png"
+  },
+  {
+   "file": "icons/All4.png",
+   "key": "All4",
+   "zh": "Channel 4",
+   "category": "欧美电视",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/All4.png"
+  },
+  {
+   "file": "icons/FOX.png",
+   "key": "FOX",
+   "zh": "FOX",
+   "category": "欧美电视",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/FOX.png"
+  },
+  {
+   "file": "icons/NBC.png",
+   "key": "NBC",
+   "zh": "NBC",
+   "category": "欧美电视",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/NBC.png"
+  },
+  {
+   "file": "icons/NBA.png",
+   "key": "NBA",
+   "zh": "NBA",
+   "category": "欧美电视",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/NBA.png"
+  },
+  {
+   "file": "icons/PBS.png",
+   "key": "PBS",
+   "zh": "PBS",
+   "category": "欧美电视",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/PBS.png"
+  },
+  {
+   "file": "icons/Yahoo.png",
+   "key": "Yahoo",
+   "zh": "Yahoo",
+   "category": "欧美电视",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Yahoo.png"
+  },
+  {
+   "file": "icons/Amazon.png",
+   "key": "Amazon",
+   "zh": "亚马逊",
+   "category": "电商支付",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Amazon.png"
+  },
+  {
+   "file": "icons/PayPal.png",
+   "key": "PayPal",
+   "zh": "PayPal",
+   "category": "电商支付",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/PayPal.png"
+  },
+  {
+   "file": "icons/Emby.png",
+   "key": "Emby",
+   "zh": "Emby",
+   "category": "媒体服务器",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Emby.png"
+  },
+  {
+   "file": "icons/Infuse.png",
+   "key": "Infuse",
+   "zh": "Infuse",
+   "category": "媒体服务器",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Infuse.png"
+  },
+  {
+   "file": "icons/TestFlight.png",
+   "key": "TestFlight",
+   "zh": "TestFlight",
+   "category": "开发工具",
+   "source": "Qure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/TestFlight.png"
+  },
+  {
+   "file": "icons/Zhihu.png",
+   "key": "Zhihu",
+   "zh": "知乎",
+   "category": "国内站点",
+   "source": "simple-icons",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Zhihu.png"
+  },
+  {
+   "file": "icons/Xiaohongshu.png",
+   "key": "Xiaohongshu",
+   "zh": "小红书",
+   "category": "国内站点",
+   "source": "simple-icons",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Xiaohongshu.png"
+  },
+  {
+   "file": "icons/Baidu.png",
+   "key": "Baidu",
+   "zh": "百度",
+   "category": "国内站点",
+   "source": "simple-icons",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Baidu.png"
+  },
+  {
+   "file": "icons/Kuaishou.png",
+   "key": "Kuaishou",
+   "zh": "快手",
+   "category": "国内站点",
+   "source": "simple-icons",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Kuaishou.png"
+  },
+  {
+   "file": "icons/Douban.png",
+   "key": "Douban",
+   "zh": "豆瓣",
+   "category": "国内站点",
+   "source": "simple-icons",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Douban.png"
+  },
+  {
+   "file": "icons/Meituan.png",
+   "key": "Meituan",
+   "zh": "美团",
+   "category": "国内站点",
+   "source": "simple-icons",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Meituan.png"
+  },
+  {
+   "file": "icons/Alipay.png",
+   "key": "Alipay",
+   "zh": "支付宝",
+   "category": "电商支付",
+   "source": "simple-icons",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Alipay.png"
+  },
+  {
+   "file": "icons/Xiaomi.png",
+   "key": "Xiaomi",
+   "zh": "小米",
+   "category": "国内站点",
+   "source": "simple-icons",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Xiaomi.png"
+  },
+  {
+   "file": "icons/Huawei.png",
+   "key": "Huawei",
+   "zh": "华为",
+   "category": "国内站点",
+   "source": "simple-icons",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Huawei.png"
+  },
+  {
+   "file": "icons/Trip.png",
+   "key": "Trip",
+   "zh": "携程",
+   "category": "国内站点",
+   "source": "simple-icons",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Trip.png"
+  },
+  {
+   "file": "icons/WhatsApp.png",
+   "key": "WhatsApp",
+   "zh": "WhatsApp",
+   "category": "社交媒体",
+   "source": "simple-icons",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/WhatsApp.png"
+  },
+  {
+   "file": "icons/Reddit.png",
+   "key": "Reddit",
+   "zh": "Reddit",
+   "category": "社交媒体",
+   "source": "simple-icons",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Reddit.png"
+  },
+  {
+   "file": "icons/Pinterest.png",
+   "key": "Pinterest",
+   "zh": "Pinterest",
+   "category": "社交媒体",
+   "source": "simple-icons",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Pinterest.png"
+  },
+  {
+   "file": "icons/Snapchat.png",
+   "key": "Snapchat",
+   "zh": "Snapchat",
+   "category": "社交媒体",
+   "source": "simple-icons",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Snapchat.png"
+  },
+  {
+   "file": "icons/Signal.png",
+   "key": "Signal",
+   "zh": "Signal",
+   "category": "社交媒体",
+   "source": "simple-icons",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Signal.png"
+  },
+  {
+   "file": "icons/Wikipedia.png",
+   "key": "Wikipedia",
+   "zh": "维基百科",
+   "category": "知识",
+   "source": "simple-icons",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Wikipedia.png"
+  },
+  {
+   "file": "icons/Zoom.png",
+   "key": "Zoom",
+   "zh": "Zoom",
+   "category": "办公",
+   "source": "simple-icons",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Zoom.png"
+  },
+  {
+   "file": "icons/Figma.png",
+   "key": "Figma",
+   "zh": "Figma",
+   "category": "开发工具",
+   "source": "simple-icons",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Figma.png"
+  },
+  {
+   "file": "icons/Dropbox.png",
+   "key": "Dropbox",
+   "zh": "Dropbox",
+   "category": "云服务",
+   "source": "simple-icons",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Dropbox.png"
+  },
+  {
+   "file": "icons/Bitwarden.png",
+   "key": "Bitwarden",
+   "zh": "Bitwarden",
+   "category": "隐私工具",
+   "source": "simple-icons",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Bitwarden.png"
+  },
+  {
+   "file": "icons/OnePassword.png",
+   "key": "OnePassword",
+   "zh": "1Password",
+   "category": "隐私工具",
+   "source": "simple-icons",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/OnePassword.png"
+  },
+  {
+   "file": "icons/Claude.png",
+   "key": "Claude",
+   "zh": "Claude",
+   "category": "人工智能",
+   "source": "simple-icons",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Claude.png"
+  },
+  {
+   "file": "icons/Anthropic.png",
+   "key": "Anthropic",
+   "zh": "Anthropic",
+   "category": "人工智能",
+   "source": "simple-icons",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Anthropic.png"
+  },
+  {
+   "file": "icons/Perplexity.png",
+   "key": "Perplexity",
+   "zh": "Perplexity",
+   "category": "人工智能",
+   "source": "simple-icons",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Perplexity.png"
+  },
+  {
+   "file": "icons/HuggingFace.png",
+   "key": "HuggingFace",
+   "zh": "Hugging Face",
+   "category": "人工智能",
+   "source": "simple-icons",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/HuggingFace.png"
+  },
+  {
+   "file": "icons/Binance.png",
+   "key": "Binance",
+   "zh": "币安",
+   "category": "加密货币",
+   "source": "simple-icons",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Binance.png"
+  },
+  {
+   "file": "icons/Coinbase.png",
+   "key": "Coinbase",
+   "zh": "Coinbase",
+   "category": "加密货币",
+   "source": "simple-icons",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Coinbase.png"
+  },
+  {
+   "file": "icons/OKX.png",
+   "key": "OKX",
+   "zh": "OKX",
+   "category": "加密货币",
+   "source": "simple-icons",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/OKX.png"
+  },
+  {
+   "file": "icons/Stripe.png",
+   "key": "Stripe",
+   "zh": "Stripe",
+   "category": "电商支付",
+   "source": "simple-icons",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Stripe.png"
+  },
+  {
+   "file": "icons/Wise.png",
+   "key": "Wise",
+   "zh": "Wise",
+   "category": "电商支付",
+   "source": "simple-icons",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Wise.png"
+  },
+  {
+   "file": "icons/ExpressVPN.png",
+   "key": "ExpressVPN",
+   "zh": "ExpressVPN",
+   "category": "隐私工具",
+   "source": "simple-icons",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/ExpressVPN.png"
+  },
+  {
+   "file": "icons/NordVPN.png",
+   "key": "NordVPN",
+   "zh": "NordVPN",
+   "category": "隐私工具",
+   "source": "simple-icons",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/NordVPN.png"
+  },
+  {
+   "file": "icons/ProtonMail.png",
+   "key": "ProtonMail",
+   "zh": "Proton Mail",
+   "category": "隐私工具",
+   "source": "simple-icons",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/ProtonMail.png"
+  },
+  {
+   "file": "icons/OnlyFans.png",
+   "key": "OnlyFans",
+   "zh": "OnlyFans",
+   "category": "成人",
+   "source": "simple-icons",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/OnlyFans.png"
+  },
+  {
+   "file": "icons/Docker.png",
+   "key": "Docker",
+   "zh": "Docker",
+   "category": "开发工具",
+   "source": "simple-icons",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Docker.png"
+  },
+  {
+   "file": "icons/Ubuntu.png",
+   "key": "Ubuntu",
+   "zh": "Ubuntu",
+   "category": "操作系统",
+   "source": "simple-icons",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Ubuntu.png"
+  },
+  {
+   "file": "icons/Debian.png",
+   "key": "Debian",
+   "zh": "Debian",
+   "category": "操作系统",
+   "source": "simple-icons",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Debian.png"
+  },
+  {
+   "file": "icons/RedHat.png",
+   "key": "RedHat",
+   "zh": "Red Hat",
+   "category": "操作系统",
+   "source": "simple-icons",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/RedHat.png"
+  },
+  {
+   "file": "icons/NVIDIA.png",
+   "key": "NVIDIA",
+   "zh": "NVIDIA",
+   "category": "硬件",
+   "source": "simple-icons",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/NVIDIA.png"
+  },
+  {
+   "file": "icons/AMD.png",
+   "key": "AMD",
+   "zh": "AMD",
+   "category": "硬件",
+   "source": "simple-icons",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/AMD.png"
+  },
+  {
+   "file": "icons/Intel.png",
+   "key": "Intel",
+   "zh": "Intel",
+   "category": "硬件",
+   "source": "simple-icons",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Intel.png"
+  },
+  {
+   "file": "icons/Qualcomm.png",
+   "key": "Qualcomm",
+   "zh": "高通",
+   "category": "硬件",
+   "source": "simple-icons",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Qualcomm.png"
+  },
+  {
+   "file": "icons/Shopify.png",
+   "key": "Shopify",
+   "zh": "Shopify",
+   "category": "电商支付",
+   "source": "simple-icons",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Shopify.png"
+  },
+  {
+   "file": "icons/WordPress.png",
+   "key": "WordPress",
+   "zh": "WordPress",
+   "category": "开发工具",
+   "source": "simple-icons",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/WordPress.png"
+  },
+  {
+   "file": "icons/Crunchyroll.png",
+   "key": "Crunchyroll",
+   "zh": "Crunchyroll",
+   "category": "流媒体",
+   "source": "simple-icons",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Crunchyroll.png"
+  },
+  {
+   "file": "icons/Duolingo.png",
+   "key": "Duolingo",
+   "zh": "多邻国",
+   "category": "教育",
+   "source": "simple-icons",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Duolingo.png"
+  },
+  {
+   "file": "icons/Coursera.png",
+   "key": "Coursera",
+   "zh": "Coursera",
+   "category": "教育",
+   "source": "simple-icons",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Coursera.png"
+  },
+  {
+   "file": "icons/Udemy.png",
+   "key": "Udemy",
+   "zh": "Udemy",
+   "category": "教育",
+   "source": "simple-icons",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Udemy.png"
+  },
+  {
+   "file": "icons/Starbucks.png",
+   "key": "Starbucks",
+   "zh": "星巴克",
+   "category": "生活",
+   "source": "simple-icons",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Starbucks.png"
+  },
+  {
+   "file": "icons/KFC.png",
+   "key": "KFC",
+   "zh": "肯德基",
+   "category": "生活",
+   "source": "simple-icons",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/KFC.png"
+  }
+ ],
+ "flags": [
+  {
+   "file": "flags/cn.png",
+   "square": "flags-square/cn.png",
+   "code": "CN",
+   "zh": "中国",
+   "en": "China",
+   "region": "亚洲",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/cn.png",
+   "square_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags-square/cn.png"
+  },
+  {
+   "file": "flags/hk.png",
+   "square": "flags-square/hk.png",
+   "code": "HK",
+   "zh": "香港",
+   "en": "Hong Kong",
+   "region": "亚洲",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/hk.png",
+   "square_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags-square/hk.png"
+  },
+  {
+   "file": "flags/tw.png",
+   "square": "flags-square/tw.png",
+   "code": "TW",
+   "zh": "台湾",
+   "en": "Taiwan",
+   "region": "亚洲",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/tw.png",
+   "square_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags-square/tw.png"
+  },
+  {
+   "file": "flags/mo.png",
+   "square": "flags-square/mo.png",
+   "code": "MO",
+   "zh": "澳门",
+   "en": "Macao",
+   "region": "亚洲",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/mo.png",
+   "square_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags-square/mo.png"
+  },
+  {
+   "file": "flags/jp.png",
+   "square": "flags-square/jp.png",
+   "code": "JP",
+   "zh": "日本",
+   "en": "Japan",
+   "region": "亚洲",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/jp.png",
+   "square_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags-square/jp.png"
+  },
+  {
+   "file": "flags/kr.png",
+   "square": "flags-square/kr.png",
+   "code": "KR",
+   "zh": "韩国",
+   "en": "South Korea",
+   "region": "亚洲",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/kr.png",
+   "square_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags-square/kr.png"
+  },
+  {
+   "file": "flags/sg.png",
+   "square": "flags-square/sg.png",
+   "code": "SG",
+   "zh": "新加坡",
+   "en": "Singapore",
+   "region": "亚洲",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/sg.png",
+   "square_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags-square/sg.png"
+  },
+  {
+   "file": "flags/my.png",
+   "square": "flags-square/my.png",
+   "code": "MY",
+   "zh": "马来西亚",
+   "en": "Malaysia",
+   "region": "亚洲",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/my.png",
+   "square_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags-square/my.png"
+  },
+  {
+   "file": "flags/th.png",
+   "square": "flags-square/th.png",
+   "code": "TH",
+   "zh": "泰国",
+   "en": "Thailand",
+   "region": "亚洲",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/th.png",
+   "square_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags-square/th.png"
+  },
+  {
+   "file": "flags/vn.png",
+   "square": "flags-square/vn.png",
+   "code": "VN",
+   "zh": "越南",
+   "en": "Vietnam",
+   "region": "亚洲",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/vn.png",
+   "square_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags-square/vn.png"
+  },
+  {
+   "file": "flags/ph.png",
+   "square": "flags-square/ph.png",
+   "code": "PH",
+   "zh": "菲律宾",
+   "en": "Philippines",
+   "region": "亚洲",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/ph.png",
+   "square_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags-square/ph.png"
+  },
+  {
+   "file": "flags/id.png",
+   "square": "flags-square/id.png",
+   "code": "ID",
+   "zh": "印度尼西亚",
+   "en": "Indonesia",
+   "region": "亚洲",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/id.png",
+   "square_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags-square/id.png"
+  },
+  {
+   "file": "flags/in.png",
+   "square": "flags-square/in.png",
+   "code": "IN",
+   "zh": "印度",
+   "en": "India",
+   "region": "亚洲",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/in.png",
+   "square_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags-square/in.png"
+  },
+  {
+   "file": "flags/pk.png",
+   "square": "flags-square/pk.png",
+   "code": "PK",
+   "zh": "巴基斯坦",
+   "en": "Pakistan",
+   "region": "亚洲",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/pk.png",
+   "square_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags-square/pk.png"
+  },
+  {
+   "file": "flags/bd.png",
+   "square": "flags-square/bd.png",
+   "code": "BD",
+   "zh": "孟加拉国",
+   "en": "Bangladesh",
+   "region": "亚洲",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/bd.png",
+   "square_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags-square/bd.png"
+  },
+  {
+   "file": "flags/lk.png",
+   "square": "flags-square/lk.png",
+   "code": "LK",
+   "zh": "斯里兰卡",
+   "en": "Sri Lanka",
+   "region": "亚洲",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/lk.png",
+   "square_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags-square/lk.png"
+  },
+  {
+   "file": "flags/np.png",
+   "square": "flags-square/np.png",
+   "code": "NP",
+   "zh": "尼泊尔",
+   "en": "Nepal",
+   "region": "亚洲",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/np.png",
+   "square_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags-square/np.png"
+  },
+  {
+   "file": "flags/kh.png",
+   "square": "flags-square/kh.png",
+   "code": "KH",
+   "zh": "柬埔寨",
+   "en": "Cambodia",
+   "region": "亚洲",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/kh.png",
+   "square_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags-square/kh.png"
+  },
+  {
+   "file": "flags/mm.png",
+   "square": "flags-square/mm.png",
+   "code": "MM",
+   "zh": "缅甸",
+   "en": "Myanmar",
+   "region": "亚洲",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/mm.png",
+   "square_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags-square/mm.png"
+  },
+  {
+   "file": "flags/mn.png",
+   "square": "flags-square/mn.png",
+   "code": "MN",
+   "zh": "蒙古",
+   "en": "Mongolia",
+   "region": "亚洲",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/mn.png",
+   "square_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags-square/mn.png"
+  },
+  {
+   "file": "flags/us.png",
+   "square": "flags-square/us.png",
+   "code": "US",
+   "zh": "美国",
+   "en": "United States",
+   "region": "美洲",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/us.png",
+   "square_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags-square/us.png"
+  },
+  {
+   "file": "flags/ca.png",
+   "square": "flags-square/ca.png",
+   "code": "CA",
+   "zh": "加拿大",
+   "en": "Canada",
+   "region": "美洲",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/ca.png",
+   "square_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags-square/ca.png"
+  },
+  {
+   "file": "flags/mx.png",
+   "square": "flags-square/mx.png",
+   "code": "MX",
+   "zh": "墨西哥",
+   "en": "Mexico",
+   "region": "美洲",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/mx.png",
+   "square_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags-square/mx.png"
+  },
+  {
+   "file": "flags/br.png",
+   "square": "flags-square/br.png",
+   "code": "BR",
+   "zh": "巴西",
+   "en": "Brazil",
+   "region": "美洲",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/br.png",
+   "square_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags-square/br.png"
+  },
+  {
+   "file": "flags/ar.png",
+   "square": "flags-square/ar.png",
+   "code": "AR",
+   "zh": "阿根廷",
+   "en": "Argentina",
+   "region": "美洲",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/ar.png",
+   "square_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags-square/ar.png"
+  },
+  {
+   "file": "flags/cl.png",
+   "square": "flags-square/cl.png",
+   "code": "CL",
+   "zh": "智利",
+   "en": "Chile",
+   "region": "美洲",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/cl.png",
+   "square_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags-square/cl.png"
+  },
+  {
+   "file": "flags/pe.png",
+   "square": "flags-square/pe.png",
+   "code": "PE",
+   "zh": "秘鲁",
+   "en": "Peru",
+   "region": "美洲",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/pe.png",
+   "square_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags-square/pe.png"
+  },
+  {
+   "file": "flags/co.png",
+   "square": "flags-square/co.png",
+   "code": "CO",
+   "zh": "哥伦比亚",
+   "en": "Colombia",
+   "region": "美洲",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/co.png",
+   "square_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags-square/co.png"
+  },
+  {
+   "file": "flags/ve.png",
+   "square": "flags-square/ve.png",
+   "code": "VE",
+   "zh": "委内瑞拉",
+   "en": "Venezuela",
+   "region": "美洲",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/ve.png",
+   "square_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags-square/ve.png"
+  },
+  {
+   "file": "flags/pa.png",
+   "square": "flags-square/pa.png",
+   "code": "PA",
+   "zh": "巴拿马",
+   "en": "Panama",
+   "region": "美洲",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/pa.png",
+   "square_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags-square/pa.png"
+  },
+  {
+   "file": "flags/gb.png",
+   "square": "flags-square/gb.png",
+   "code": "GB",
+   "zh": "英国",
+   "en": "United Kingdom",
+   "region": "欧洲",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/gb.png",
+   "square_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags-square/gb.png"
+  },
+  {
+   "file": "flags/ie.png",
+   "square": "flags-square/ie.png",
+   "code": "IE",
+   "zh": "爱尔兰",
+   "en": "Ireland",
+   "region": "欧洲",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/ie.png",
+   "square_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags-square/ie.png"
+  },
+  {
+   "file": "flags/fr.png",
+   "square": "flags-square/fr.png",
+   "code": "FR",
+   "zh": "法国",
+   "en": "France",
+   "region": "欧洲",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/fr.png",
+   "square_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags-square/fr.png"
+  },
+  {
+   "file": "flags/de.png",
+   "square": "flags-square/de.png",
+   "code": "DE",
+   "zh": "德国",
+   "en": "Germany",
+   "region": "欧洲",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/de.png",
+   "square_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags-square/de.png"
+  },
+  {
+   "file": "flags/nl.png",
+   "square": "flags-square/nl.png",
+   "code": "NL",
+   "zh": "荷兰",
+   "en": "Netherlands",
+   "region": "欧洲",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/nl.png",
+   "square_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags-square/nl.png"
+  },
+  {
+   "file": "flags/be.png",
+   "square": "flags-square/be.png",
+   "code": "BE",
+   "zh": "比利时",
+   "en": "Belgium",
+   "region": "欧洲",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/be.png",
+   "square_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags-square/be.png"
+  },
+  {
+   "file": "flags/lu.png",
+   "square": "flags-square/lu.png",
+   "code": "LU",
+   "zh": "卢森堡",
+   "en": "Luxembourg",
+   "region": "欧洲",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/lu.png",
+   "square_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags-square/lu.png"
+  },
+  {
+   "file": "flags/ch.png",
+   "square": "flags-square/ch.png",
+   "code": "CH",
+   "zh": "瑞士",
+   "en": "Switzerland",
+   "region": "欧洲",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/ch.png",
+   "square_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags-square/ch.png"
+  },
+  {
+   "file": "flags/at.png",
+   "square": "flags-square/at.png",
+   "code": "AT",
+   "zh": "奥地利",
+   "en": "Austria",
+   "region": "欧洲",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/at.png",
+   "square_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags-square/at.png"
+  },
+  {
+   "file": "flags/it.png",
+   "square": "flags-square/it.png",
+   "code": "IT",
+   "zh": "意大利",
+   "en": "Italy",
+   "region": "欧洲",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/it.png",
+   "square_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags-square/it.png"
+  },
+  {
+   "file": "flags/es.png",
+   "square": "flags-square/es.png",
+   "code": "ES",
+   "zh": "西班牙",
+   "en": "Spain",
+   "region": "欧洲",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/es.png",
+   "square_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags-square/es.png"
+  },
+  {
+   "file": "flags/pt.png",
+   "square": "flags-square/pt.png",
+   "code": "PT",
+   "zh": "葡萄牙",
+   "en": "Portugal",
+   "region": "欧洲",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/pt.png",
+   "square_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags-square/pt.png"
+  },
+  {
+   "file": "flags/gr.png",
+   "square": "flags-square/gr.png",
+   "code": "GR",
+   "zh": "希腊",
+   "en": "Greece",
+   "region": "欧洲",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/gr.png",
+   "square_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags-square/gr.png"
+  },
+  {
+   "file": "flags/se.png",
+   "square": "flags-square/se.png",
+   "code": "SE",
+   "zh": "瑞典",
+   "en": "Sweden",
+   "region": "欧洲",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/se.png",
+   "square_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags-square/se.png"
+  },
+  {
+   "file": "flags/no.png",
+   "square": "flags-square/no.png",
+   "code": "NO",
+   "zh": "挪威",
+   "en": "Norway",
+   "region": "欧洲",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/no.png",
+   "square_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags-square/no.png"
+  },
+  {
+   "file": "flags/dk.png",
+   "square": "flags-square/dk.png",
+   "code": "DK",
+   "zh": "丹麦",
+   "en": "Denmark",
+   "region": "欧洲",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/dk.png",
+   "square_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags-square/dk.png"
+  },
+  {
+   "file": "flags/fi.png",
+   "square": "flags-square/fi.png",
+   "code": "FI",
+   "zh": "芬兰",
+   "en": "Finland",
+   "region": "欧洲",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/fi.png",
+   "square_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags-square/fi.png"
+  },
+  {
+   "file": "flags/is.png",
+   "square": "flags-square/is.png",
+   "code": "IS",
+   "zh": "冰岛",
+   "en": "Iceland",
+   "region": "欧洲",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/is.png",
+   "square_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags-square/is.png"
+  },
+  {
+   "file": "flags/pl.png",
+   "square": "flags-square/pl.png",
+   "code": "PL",
+   "zh": "波兰",
+   "en": "Poland",
+   "region": "欧洲",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/pl.png",
+   "square_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags-square/pl.png"
+  },
+  {
+   "file": "flags/cz.png",
+   "square": "flags-square/cz.png",
+   "code": "CZ",
+   "zh": "捷克",
+   "en": "Czechia",
+   "region": "欧洲",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/cz.png",
+   "square_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags-square/cz.png"
+  },
+  {
+   "file": "flags/sk.png",
+   "square": "flags-square/sk.png",
+   "code": "SK",
+   "zh": "斯洛伐克",
+   "en": "Slovakia",
+   "region": "欧洲",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/sk.png",
+   "square_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags-square/sk.png"
+  },
+  {
+   "file": "flags/hu.png",
+   "square": "flags-square/hu.png",
+   "code": "HU",
+   "zh": "匈牙利",
+   "en": "Hungary",
+   "region": "欧洲",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/hu.png",
+   "square_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags-square/hu.png"
+  },
+  {
+   "file": "flags/ro.png",
+   "square": "flags-square/ro.png",
+   "code": "RO",
+   "zh": "罗马尼亚",
+   "en": "Romania",
+   "region": "欧洲",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/ro.png",
+   "square_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags-square/ro.png"
+  },
+  {
+   "file": "flags/bg.png",
+   "square": "flags-square/bg.png",
+   "code": "BG",
+   "zh": "保加利亚",
+   "en": "Bulgaria",
+   "region": "欧洲",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/bg.png",
+   "square_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags-square/bg.png"
+  },
+  {
+   "file": "flags/hr.png",
+   "square": "flags-square/hr.png",
+   "code": "HR",
+   "zh": "克罗地亚",
+   "en": "Croatia",
+   "region": "欧洲",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/hr.png",
+   "square_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags-square/hr.png"
+  },
+  {
+   "file": "flags/rs.png",
+   "square": "flags-square/rs.png",
+   "code": "RS",
+   "zh": "塞尔维亚",
+   "en": "Serbia",
+   "region": "欧洲",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/rs.png",
+   "square_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags-square/rs.png"
+  },
+  {
+   "file": "flags/si.png",
+   "square": "flags-square/si.png",
+   "code": "SI",
+   "zh": "斯洛文尼亚",
+   "en": "Slovenia",
+   "region": "欧洲",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/si.png",
+   "square_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags-square/si.png"
+  },
+  {
+   "file": "flags/ee.png",
+   "square": "flags-square/ee.png",
+   "code": "EE",
+   "zh": "爱沙尼亚",
+   "en": "Estonia",
+   "region": "欧洲",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/ee.png",
+   "square_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags-square/ee.png"
+  },
+  {
+   "file": "flags/lv.png",
+   "square": "flags-square/lv.png",
+   "code": "LV",
+   "zh": "拉脱维亚",
+   "en": "Latvia",
+   "region": "欧洲",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/lv.png",
+   "square_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags-square/lv.png"
+  },
+  {
+   "file": "flags/lt.png",
+   "square": "flags-square/lt.png",
+   "code": "LT",
+   "zh": "立陶宛",
+   "en": "Lithuania",
+   "region": "欧洲",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/lt.png",
+   "square_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags-square/lt.png"
+  },
+  {
+   "file": "flags/ua.png",
+   "square": "flags-square/ua.png",
+   "code": "UA",
+   "zh": "乌克兰",
+   "en": "Ukraine",
+   "region": "欧洲",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/ua.png",
+   "square_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags-square/ua.png"
+  },
+  {
+   "file": "flags/by.png",
+   "square": "flags-square/by.png",
+   "code": "BY",
+   "zh": "白俄罗斯",
+   "en": "Belarus",
+   "region": "欧洲",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/by.png",
+   "square_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags-square/by.png"
+  },
+  {
+   "file": "flags/ru.png",
+   "square": "flags-square/ru.png",
+   "code": "RU",
+   "zh": "俄罗斯",
+   "en": "Russia",
+   "region": "欧洲",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/ru.png",
+   "square_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags-square/ru.png"
+  },
+  {
+   "file": "flags/tr.png",
+   "square": "flags-square/tr.png",
+   "code": "TR",
+   "zh": "土耳其",
+   "en": "Turkey",
+   "region": "欧洲",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/tr.png",
+   "square_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags-square/tr.png"
+  },
+  {
+   "file": "flags/md.png",
+   "square": "flags-square/md.png",
+   "code": "MD",
+   "zh": "摩尔多瓦",
+   "en": "Moldova",
+   "region": "欧洲",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/md.png",
+   "square_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags-square/md.png"
+  },
+  {
+   "file": "flags/cy.png",
+   "square": "flags-square/cy.png",
+   "code": "CY",
+   "zh": "塞浦路斯",
+   "en": "Cyprus",
+   "region": "欧洲",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/cy.png",
+   "square_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags-square/cy.png"
+  },
+  {
+   "file": "flags/mt.png",
+   "square": "flags-square/mt.png",
+   "code": "MT",
+   "zh": "马耳他",
+   "en": "Malta",
+   "region": "欧洲",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/mt.png",
+   "square_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags-square/mt.png"
+  },
+  {
+   "file": "flags/au.png",
+   "square": "flags-square/au.png",
+   "code": "AU",
+   "zh": "澳大利亚",
+   "en": "Australia",
+   "region": "大洋洲",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/au.png",
+   "square_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags-square/au.png"
+  },
+  {
+   "file": "flags/nz.png",
+   "square": "flags-square/nz.png",
+   "code": "NZ",
+   "zh": "新西兰",
+   "en": "New Zealand",
+   "region": "大洋洲",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/nz.png",
+   "square_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags-square/nz.png"
+  },
+  {
+   "file": "flags/za.png",
+   "square": "flags-square/za.png",
+   "code": "ZA",
+   "zh": "南非",
+   "en": "South Africa",
+   "region": "非洲",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/za.png",
+   "square_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags-square/za.png"
+  },
+  {
+   "file": "flags/eg.png",
+   "square": "flags-square/eg.png",
+   "code": "EG",
+   "zh": "埃及",
+   "en": "Egypt",
+   "region": "非洲",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/eg.png",
+   "square_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags-square/eg.png"
+  },
+  {
+   "file": "flags/ng.png",
+   "square": "flags-square/ng.png",
+   "code": "NG",
+   "zh": "尼日利亚",
+   "en": "Nigeria",
+   "region": "非洲",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/ng.png",
+   "square_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags-square/ng.png"
+  },
+  {
+   "file": "flags/ke.png",
+   "square": "flags-square/ke.png",
+   "code": "KE",
+   "zh": "肯尼亚",
+   "en": "Kenya",
+   "region": "非洲",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/ke.png",
+   "square_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags-square/ke.png"
+  },
+  {
+   "file": "flags/ma.png",
+   "square": "flags-square/ma.png",
+   "code": "MA",
+   "zh": "摩洛哥",
+   "en": "Morocco",
+   "region": "非洲",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/ma.png",
+   "square_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags-square/ma.png"
+  },
+  {
+   "file": "flags/tz.png",
+   "square": "flags-square/tz.png",
+   "code": "TZ",
+   "zh": "坦桑尼亚",
+   "en": "Tanzania",
+   "region": "非洲",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/tz.png",
+   "square_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags-square/tz.png"
+  },
+  {
+   "file": "flags/gh.png",
+   "square": "flags-square/gh.png",
+   "code": "GH",
+   "zh": "加纳",
+   "en": "Ghana",
+   "region": "非洲",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/gh.png",
+   "square_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags-square/gh.png"
+  },
+  {
+   "file": "flags/sa.png",
+   "square": "flags-square/sa.png",
+   "code": "SA",
+   "zh": "沙特阿拉伯",
+   "en": "Saudi Arabia",
+   "region": "中东",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/sa.png",
+   "square_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags-square/sa.png"
+  },
+  {
+   "file": "flags/ae.png",
+   "square": "flags-square/ae.png",
+   "code": "AE",
+   "zh": "阿联酋",
+   "en": "United Arab Emirates",
+   "region": "中东",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/ae.png",
+   "square_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags-square/ae.png"
+  },
+  {
+   "file": "flags/il.png",
+   "square": "flags-square/il.png",
+   "code": "IL",
+   "zh": "以色列",
+   "en": "Israel",
+   "region": "中东",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/il.png",
+   "square_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags-square/il.png"
+  },
+  {
+   "file": "flags/qa.png",
+   "square": "flags-square/qa.png",
+   "code": "QA",
+   "zh": "卡塔尔",
+   "en": "Qatar",
+   "region": "中东",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/qa.png",
+   "square_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags-square/qa.png"
+  },
+  {
+   "file": "flags/kw.png",
+   "square": "flags-square/kw.png",
+   "code": "KW",
+   "zh": "科威特",
+   "en": "Kuwait",
+   "region": "中东",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/kw.png",
+   "square_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags-square/kw.png"
+  },
+  {
+   "file": "flags/ir.png",
+   "square": "flags-square/ir.png",
+   "code": "IR",
+   "zh": "伊朗",
+   "en": "Iran",
+   "region": "中东",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/ir.png",
+   "square_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags-square/ir.png"
+  },
+  {
+   "file": "flags/iq.png",
+   "square": "flags-square/iq.png",
+   "code": "IQ",
+   "zh": "伊拉克",
+   "en": "Iraq",
+   "region": "中东",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/iq.png",
+   "square_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags-square/iq.png"
+  },
+  {
+   "file": "flags/jo.png",
+   "square": "flags-square/jo.png",
+   "code": "JO",
+   "zh": "约旦",
+   "en": "Jordan",
+   "region": "中东",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/jo.png",
+   "square_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags-square/jo.png"
+  },
+  {
+   "file": "flags/lb.png",
+   "square": "flags-square/lb.png",
+   "code": "LB",
+   "zh": "黎巴嫩",
+   "en": "Lebanon",
+   "region": "中东",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/lb.png",
+   "square_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags-square/lb.png"
+  },
+  {
+   "file": "flags/kz.png",
+   "square": "flags-square/kz.png",
+   "code": "KZ",
+   "zh": "哈萨克斯坦",
+   "en": "Kazakhstan",
+   "region": "中亚",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/kz.png",
+   "square_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags-square/kz.png"
+  },
+  {
+   "file": "flags/uz.png",
+   "square": "flags-square/uz.png",
+   "code": "UZ",
+   "zh": "乌兹别克斯坦",
+   "en": "Uzbekistan",
+   "region": "中亚",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/uz.png",
+   "square_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags-square/uz.png"
+  },
+  {
+   "file": "flags/eu.png",
+   "square": "flags-square/eu.png",
+   "code": "EU",
+   "zh": "欧盟",
+   "en": "European Union",
+   "region": "超国家",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/eu.png",
+   "square_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags-square/eu.png"
+  },
+  {
+   "file": "flags/un.png",
+   "square": "flags-square/un.png",
+   "code": "UN",
+   "zh": "联合国",
+   "en": "United Nations",
+   "region": "超国家",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/un.png",
+   "square_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags-square/un.png"
+  }
+ ],
+ "regions": [
+  {
+   "file": "regions/CN.png",
+   "code": "CN",
+   "zh": "中国大陆",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/CN.png"
+  },
+  {
+   "file": "regions/HK.png",
+   "code": "HK",
+   "zh": "香港",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/HK.png"
+  },
+  {
+   "file": "regions/TW.png",
+   "code": "TW",
+   "zh": "台湾",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/TW.png"
+  },
+  {
+   "file": "regions/MO.png",
+   "code": "MO",
+   "zh": "澳门",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/MO.png"
+  },
+  {
+   "file": "regions/JP.png",
+   "code": "JP",
+   "zh": "日本",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/JP.png"
+  },
+  {
+   "file": "regions/KR.png",
+   "code": "KR",
+   "zh": "韩国",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/KR.png"
+  },
+  {
+   "file": "regions/SG.png",
+   "code": "SG",
+   "zh": "新加坡",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/SG.png"
+  },
+  {
+   "file": "regions/MY.png",
+   "code": "MY",
+   "zh": "马来西亚",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/MY.png"
+  },
+  {
+   "file": "regions/TH.png",
+   "code": "TH",
+   "zh": "泰国",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/TH.png"
+  },
+  {
+   "file": "regions/PH.png",
+   "code": "PH",
+   "zh": "菲律宾",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/PH.png"
+  },
+  {
+   "file": "regions/IN.png",
+   "code": "IN",
+   "zh": "印度",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/IN.png"
+  },
+  {
+   "file": "regions/AU.png",
+   "code": "AU",
+   "zh": "澳大利亚",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/AU.png"
+  },
+  {
+   "file": "regions/US.png",
+   "code": "US",
+   "zh": "美国",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/US.png"
+  },
+  {
+   "file": "regions/CA.png",
+   "code": "CA",
+   "zh": "加拿大",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/CA.png"
+  },
+  {
+   "file": "regions/BR.png",
+   "code": "BR",
+   "zh": "巴西",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/BR.png"
+  },
+  {
+   "file": "regions/UK.png",
+   "code": "UK",
+   "zh": "英国",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/UK.png"
+  },
+  {
+   "file": "regions/DE.png",
+   "code": "DE",
+   "zh": "德国",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/DE.png"
+  },
+  {
+   "file": "regions/FR.png",
+   "code": "FR",
+   "zh": "法国",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/FR.png"
+  },
+  {
+   "file": "regions/RU.png",
+   "code": "RU",
+   "zh": "俄罗斯",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/RU.png"
+  },
+  {
+   "file": "regions/FI.png",
+   "code": "FI",
+   "zh": "芬兰",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/FI.png"
+  },
+  {
+   "file": "regions/UA.png",
+   "code": "UA",
+   "zh": "乌克兰",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/UA.png"
+  },
+  {
+   "file": "regions/TR.png",
+   "code": "TR",
+   "zh": "土耳其",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/TR.png"
+  },
+  {
+   "file": "regions/EG.png",
+   "code": "EG",
+   "zh": "埃及",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/EG.png"
+  },
+  {
+   "file": "regions/EU.png",
+   "code": "EU",
+   "zh": "欧盟",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/EU.png"
+  },
+  {
+   "file": "regions/UN.png",
+   "code": "UN",
+   "zh": "联合国",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/UN.png"
+  }
+ ]
+}

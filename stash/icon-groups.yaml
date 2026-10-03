@@ -1,0 +1,127 @@
+# Stash 策略组图标片段
+# 生成自图标集，base-url = https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/
+# 用法：把下面每个策略组的 icon 字段复制到你自己的 proxy-groups 里
+
+proxy-groups:
+  - name: 🚀 节点选择
+    type: select
+    icon: https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Proxy.png
+    proxies: [DIRECT, REJECT]
+  - name: ♻️ 自动选择
+    type: select
+    icon: https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Auto.png
+    proxies: [DIRECT, REJECT]
+  - name: 🔯 故障转移
+    type: select
+    icon: https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Available.png
+    proxies: [DIRECT, REJECT]
+  - name: 🔮 负载均衡
+    type: select
+    icon: https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Loop.png
+    proxies: [DIRECT, REJECT]
+  - name: 🎯 全球直连
+    type: select
+    icon: https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Direct.png
+    proxies: [DIRECT, REJECT]
+  - name: 🛑 广告拦截
+    type: select
+    icon: https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/AdBlack.png
+    proxies: [DIRECT, REJECT]
+  - name: 🐟 漏网之鱼
+    type: select
+    icon: https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Final.png
+    proxies: [DIRECT, REJECT]
+  - name: 🌍 国外媒体
+    type: select
+    icon: https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/ForeignMedia.png
+    proxies: [DIRECT, REJECT]
+  - name: 🎬 国际流媒体
+    type: select
+    icon: https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Streaming.png
+    proxies: [DIRECT, REJECT]
+  - name: 📺 国内媒体
+    type: select
+    icon: https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/DomesticMedia.png
+    proxies: [DIRECT, REJECT]
+  - name: 🎵 音乐解锁
+    type: select
+    icon: https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Music_Enhance.png
+    proxies: [DIRECT, REJECT]
+  - name: 🤖 人工智能
+    type: select
+    icon: https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/ChatGPT.png
+    proxies: [DIRECT, REJECT]
+  - name: 📱 电报消息
+    type: select
+    icon: https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Telegram.png
+    proxies: [DIRECT, REJECT]
+  - name: 🎮 游戏平台
+    type: select
+    icon: https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Game.png
+    proxies: [DIRECT, REJECT]
+  - name: 💳 支付服务
+    type: select
+    icon: https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/PayPal.png
+    proxies: [DIRECT, REJECT]
+  - name: 🍎 苹果服务
+    type: select
+    icon: https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Apple.png
+    proxies: [DIRECT, REJECT]
+  - name: 🔍 谷歌服务
+    type: select
+    icon: https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Google.png
+    proxies: [DIRECT, REJECT]
+  - name: 🪟 微软服务
+    type: select
+    icon: https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Microsoft.png
+    proxies: [DIRECT, REJECT]
+  - name: 🐙 开发工具
+    type: select
+    icon: https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/GitHub.png
+    proxies: [DIRECT, REJECT]
+  - name: 🇨🇳 国内网站
+    type: select
+    icon: https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Domestic.png
+    proxies: [DIRECT, REJECT]
+
+  # ---- 按地区分组的节点（国旗图标）----
+  - name: 🇭🇰 香港节点
+    type: url-test
+    icon: https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/hk.png
+    proxies: []
+    interval: 300
+  - name: 🇹🇼 台湾节点
+    type: url-test
+    icon: https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/tw.png
+    proxies: []
+    interval: 300
+  - name: 🇯🇵 日本节点
+    type: url-test
+    icon: https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/jp.png
+    proxies: []
+    interval: 300
+  - name: 🇰🇷 韩国节点
+    type: url-test
+    icon: https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/kr.png
+    proxies: []
+    interval: 300
+  - name: 🇸🇬 新加坡节点
+    type: url-test
+    icon: https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/sg.png
+    proxies: []
+    interval: 300
+  - name: 🇺🇸 美国节点
+    type: url-test
+    icon: https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/us.png
+    proxies: []
+    interval: 300
+  - name: 🇬🇧 英国节点
+    type: url-test
+    icon: https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/gb.png
+    proxies: []
+    interval: 300
+  - name: 🇩🇪 德国节点
+    type: url-test
+    icon: https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/de.png
+    proxies: []
+    interval: 300

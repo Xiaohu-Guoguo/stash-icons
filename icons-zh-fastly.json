@@ -1,0 +1,1162 @@
+{
+ "name": "Stash 彩色图标集（中文）（Fastly 镜像）",
+ "description": "主流国内外网站彩色图标（Qure + simple-icons）＋ 75 国国旗（圆形 / 圆角方形）。含中文别名与分类索引。",
+ "icons": [
+  {
+   "name": "直连 Direct",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Direct.png"
+  },
+  {
+   "name": "代理 Proxy",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Proxy.png"
+  },
+  {
+   "name": "拒绝 Reject",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Reject.png"
+  },
+  {
+   "name": "兜底分流 Final",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Final.png"
+  },
+  {
+   "name": "全球 Global",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Global.png"
+  },
+  {
+   "name": "自动选择 Auto",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Auto.png"
+  },
+  {
+   "name": "手动选择 Static",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Static.png"
+  },
+  {
+   "name": "故障转移 Available",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Available.png"
+  },
+  {
+   "name": "负载均衡 Loop",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Loop.png"
+  },
+  {
+   "name": "延迟测速 Speedtest",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Speedtest.png"
+  },
+  {
+   "name": "下载 Download",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Download.png"
+  },
+  {
+   "name": "广告拦截 AdBlack",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/AdBlack.png"
+  },
+  {
+   "name": "广告拦截(白) Advertising",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Advertising.png"
+  },
+  {
+   "name": "域名劫持 Hijacking",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Hijacking.png"
+  },
+  {
+   "name": "绕过 Bypass",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Bypass.png"
+  },
+  {
+   "name": "回国 Back",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Back.png"
+  },
+  {
+   "name": "地区 Area",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Area.png"
+  },
+  {
+   "name": "国内流量 Domestic",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Domestic.png"
+  },
+  {
+   "name": "国外媒体 ForeignMedia",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/ForeignMedia.png"
+  },
+  {
+   "name": "国内媒体 DomesticMedia",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/DomesticMedia.png"
+  },
+  {
+   "name": "媒体 Media",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Media.png"
+  },
+  {
+   "name": "游戏平台 Game",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Game.png"
+  },
+  {
+   "name": "国际流媒体 Streaming",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Streaming.png"
+  },
+  {
+   "name": "国内流媒体 StreamingCN",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/StreamingCN.png"
+  },
+  {
+   "name": "解锁 Unlock",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Unlock.png"
+  },
+  {
+   "name": "音乐解锁 Music_Enhance",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Music_Enhance.png"
+  },
+  {
+   "name": "会员 VIP",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/VIP.png"
+  },
+  {
+   "name": "服务器 Server",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Server.png"
+  },
+  {
+   "name": "机场 Airport",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Airport.png"
+  },
+  {
+   "name": "苹果 Apple",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Apple.png"
+  },
+  {
+   "name": "App Store App_Store",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/App_Store.png"
+  },
+  {
+   "name": "Apple Music Apple_Music",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Apple_Music.png"
+  },
+  {
+   "name": "Apple TV Apple_TV",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Apple_TV.png"
+  },
+  {
+   "name": "Apple News Apple_News",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Apple_News.png"
+  },
+  {
+   "name": "iCloud iCloud",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/iCloud.png"
+  },
+  {
+   "name": "查找 Find_My",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Find_My.png"
+  },
+  {
+   "name": "谷歌 Google",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Google.png"
+  },
+  {
+   "name": "Gmail Gmail",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Gmail.png"
+  },
+  {
+   "name": "谷歌云端硬盘 Google_Drive",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Google_Drive.png"
+  },
+  {
+   "name": "谷歌搜索 Google_Search",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Google_Search.png"
+  },
+  {
+   "name": "谷歌意见回报 Google_Opinion_Rewards",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Google_Opinion_Rewards.png"
+  },
+  {
+   "name": "微软 Microsoft",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Microsoft.png"
+  },
+  {
+   "name": "Windows Windows",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Windows.png"
+  },
+  {
+   "name": "Windows 11 Windows_11",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Windows_11.png"
+  },
+  {
+   "name": "OneDrive OneDrive",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/OneDrive.png"
+  },
+  {
+   "name": "Azure Azure",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Azure.png"
+  },
+  {
+   "name": "Copilot Copilot",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Copilot.png"
+  },
+  {
+   "name": "Xbox Xbox",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Xbox.png"
+  },
+  {
+   "name": "ChatGPT ChatGPT",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/ChatGPT.png"
+  },
+  {
+   "name": "GitHub GitHub",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/GitHub.png"
+  },
+  {
+   "name": "GitHub 文字版 GitHub_Letter",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/GitHub_Letter.png"
+  },
+  {
+   "name": "Notion Notion",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Notion.png"
+  },
+  {
+   "name": "Cloudflare Cloudflare",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Cloudflare.png"
+  },
+  {
+   "name": "Facebook Facebook",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Facebook.png"
+  },
+  {
+   "name": "Instagram Instagram",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Instagram.png"
+  },
+  {
+   "name": "Twitter Twitter",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Twitter.png"
+  },
+  {
+   "name": "X X",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/X.png"
+  },
+  {
+   "name": "TikTok TikTok",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/TikTok.png"
+  },
+  {
+   "name": "Telegram Telegram",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Telegram.png"
+  },
+  {
+   "name": "Telegram X Telegram_X",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Telegram_X.png"
+  },
+  {
+   "name": "领英 Linkedin",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Linkedin.png"
+  },
+  {
+   "name": "Discord Discord",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Discord.png"
+  },
+  {
+   "name": "Clubhouse Clubhouse",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Clubhouse.png"
+  },
+  {
+   "name": "LINE Line",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Line.png"
+  },
+  {
+   "name": "KakaoTalk Kakao",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Kakao.png"
+  },
+  {
+   "name": "微信 WeChat",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/WeChat.png"
+  },
+  {
+   "name": "微博 Weibo",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Weibo.png"
+  },
+  {
+   "name": "哔哩哔哩 bilibili",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/bilibili.png"
+  },
+  {
+   "name": "爱奇艺 iQIYI",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/iQIYI.png"
+  },
+  {
+   "name": "淘宝 Taobao",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Taobao.png"
+  },
+  {
+   "name": "阿里巴巴 Alibaba",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Alibaba.png"
+  },
+  {
+   "name": "网易云音乐 Netease_Music",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Netease_Music.png"
+  },
+  {
+   "name": "QQ QQ",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/QQ.png"
+  },
+  {
+   "name": "Spotify Spotify",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Spotify.png"
+  },
+  {
+   "name": "Deezer deezer",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/deezer.png"
+  },
+  {
+   "name": "TIDAL TIDAL",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/TIDAL.png"
+  },
+  {
+   "name": "Pandora Pandora",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Pandora.png"
+  },
+  {
+   "name": "KKBOX KKBOX",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/KKBOX.png"
+  },
+  {
+   "name": "JOOX JOOX",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/JOOX.png"
+  },
+  {
+   "name": "YouTube Music YouTube_Music",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/YouTube_Music.png"
+  },
+  {
+   "name": "YouTube YouTube",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/YouTube.png"
+  },
+  {
+   "name": "Netflix Netflix",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Netflix.png"
+  },
+  {
+   "name": "Disney+ Disney+",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/DisneyPlus.png"
+  },
+  {
+   "name": "HBO HBO",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/HBO.png"
+  },
+  {
+   "name": "HBO Max HBO_Max",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/HBO_Max.png"
+  },
+  {
+   "name": "HBO GO HBO_GO",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/HBO_GO.png"
+  },
+  {
+   "name": "Prime Video Prime_Video",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Prime_Video.png"
+  },
+  {
+   "name": "Hulu Hulu",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Hulu.png"
+  },
+  {
+   "name": "Peacock Peacock",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Peacock.png"
+  },
+  {
+   "name": "Paramount+ Paramount",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Paramount.png"
+  },
+  {
+   "name": "Star+ Star+",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/StarPlus.png"
+  },
+  {
+   "name": "STARZ STARZ",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/STARZ.png"
+  },
+  {
+   "name": "ESPN+ ESPN+",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/ESPNPlus.png"
+  },
+  {
+   "name": "DAZN DAZN",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/DAZN.png"
+  },
+  {
+   "name": "Tubi Tubi",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Tubi.png"
+  },
+  {
+   "name": "discovery+ discovery+",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/discoveryPlus.png"
+  },
+  {
+   "name": "Vimeo Vimeo",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Vimeo.png"
+  },
+  {
+   "name": "Steam Steam",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Steam.png"
+  },
+  {
+   "name": "PlayStation PlayStation",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/PlayStation.png"
+  },
+  {
+   "name": "任天堂 Nintendo",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Nintendo.png"
+  },
+  {
+   "name": "Epic Games Epic_Games",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Epic_Games.png"
+  },
+  {
+   "name": "英雄联盟 League_of_Legends",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/League_of_Legends.png"
+  },
+  {
+   "name": "Twitch Twitch",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Twitch.png"
+  },
+  {
+   "name": "niconico niconico",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/niconico.png"
+  },
+  {
+   "name": "AbemaTV AbemaTV",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/AbemaTV.png"
+  },
+  {
+   "name": "AfreecaTV AfreecaTV",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/AfreecaTV.png"
+  },
+  {
+   "name": "巴哈姆特 Bahamut",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Bahamut.png"
+  },
+  {
+   "name": "KKTV KKTV",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/KKTV.png"
+  },
+  {
+   "name": "Viu Viu",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Viu.png"
+  },
+  {
+   "name": "ViuTV ViuTV",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/ViuTV.png"
+  },
+  {
+   "name": "腾讯视频 WeTV WeTV",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/WeTV.png"
+  },
+  {
+   "name": "BBC iPlayer BBC_iPlayer",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/BBC_iPlayer.png"
+  },
+  {
+   "name": "ITV ITV",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/ITV.png"
+  },
+  {
+   "name": "My5 My5",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/My5.png"
+  },
+  {
+   "name": "Channel 4 All4",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/All4.png"
+  },
+  {
+   "name": "FOX FOX",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/FOX.png"
+  },
+  {
+   "name": "NBC NBC",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/NBC.png"
+  },
+  {
+   "name": "NBA NBA",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/NBA.png"
+  },
+  {
+   "name": "PBS PBS",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/PBS.png"
+  },
+  {
+   "name": "Yahoo Yahoo",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Yahoo.png"
+  },
+  {
+   "name": "亚马逊 Amazon",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Amazon.png"
+  },
+  {
+   "name": "PayPal PayPal",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/PayPal.png"
+  },
+  {
+   "name": "Emby Emby",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Emby.png"
+  },
+  {
+   "name": "Infuse Infuse",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Infuse.png"
+  },
+  {
+   "name": "TestFlight TestFlight",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/TestFlight.png"
+  },
+  {
+   "name": "知乎 Zhihu",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Zhihu.png"
+  },
+  {
+   "name": "小红书 Xiaohongshu",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Xiaohongshu.png"
+  },
+  {
+   "name": "百度 Baidu",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Baidu.png"
+  },
+  {
+   "name": "快手 Kuaishou",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Kuaishou.png"
+  },
+  {
+   "name": "豆瓣 Douban",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Douban.png"
+  },
+  {
+   "name": "美团 Meituan",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Meituan.png"
+  },
+  {
+   "name": "支付宝 Alipay",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Alipay.png"
+  },
+  {
+   "name": "小米 Xiaomi",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Xiaomi.png"
+  },
+  {
+   "name": "华为 Huawei",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Huawei.png"
+  },
+  {
+   "name": "携程 Trip",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Trip.png"
+  },
+  {
+   "name": "WhatsApp WhatsApp",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/WhatsApp.png"
+  },
+  {
+   "name": "Reddit Reddit",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Reddit.png"
+  },
+  {
+   "name": "Pinterest Pinterest",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Pinterest.png"
+  },
+  {
+   "name": "Snapchat Snapchat",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Snapchat.png"
+  },
+  {
+   "name": "Signal Signal",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Signal.png"
+  },
+  {
+   "name": "维基百科 Wikipedia",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Wikipedia.png"
+  },
+  {
+   "name": "Zoom Zoom",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Zoom.png"
+  },
+  {
+   "name": "Figma Figma",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Figma.png"
+  },
+  {
+   "name": "Dropbox Dropbox",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Dropbox.png"
+  },
+  {
+   "name": "Bitwarden Bitwarden",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Bitwarden.png"
+  },
+  {
+   "name": "1Password OnePassword",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/OnePassword.png"
+  },
+  {
+   "name": "Claude Claude",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Claude.png"
+  },
+  {
+   "name": "Anthropic Anthropic",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Anthropic.png"
+  },
+  {
+   "name": "Perplexity Perplexity",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Perplexity.png"
+  },
+  {
+   "name": "Hugging Face HuggingFace",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/HuggingFace.png"
+  },
+  {
+   "name": "币安 Binance",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Binance.png"
+  },
+  {
+   "name": "Coinbase Coinbase",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Coinbase.png"
+  },
+  {
+   "name": "OKX OKX",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/OKX.png"
+  },
+  {
+   "name": "Stripe Stripe",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Stripe.png"
+  },
+  {
+   "name": "Wise Wise",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Wise.png"
+  },
+  {
+   "name": "ExpressVPN ExpressVPN",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/ExpressVPN.png"
+  },
+  {
+   "name": "NordVPN NordVPN",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/NordVPN.png"
+  },
+  {
+   "name": "Proton Mail ProtonMail",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/ProtonMail.png"
+  },
+  {
+   "name": "OnlyFans OnlyFans",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/OnlyFans.png"
+  },
+  {
+   "name": "Docker Docker",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Docker.png"
+  },
+  {
+   "name": "Ubuntu Ubuntu",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Ubuntu.png"
+  },
+  {
+   "name": "Debian Debian",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Debian.png"
+  },
+  {
+   "name": "Red Hat RedHat",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/RedHat.png"
+  },
+  {
+   "name": "NVIDIA NVIDIA",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/NVIDIA.png"
+  },
+  {
+   "name": "AMD AMD",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/AMD.png"
+  },
+  {
+   "name": "Intel Intel",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Intel.png"
+  },
+  {
+   "name": "高通 Qualcomm",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Qualcomm.png"
+  },
+  {
+   "name": "Shopify Shopify",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Shopify.png"
+  },
+  {
+   "name": "WordPress WordPress",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/WordPress.png"
+  },
+  {
+   "name": "Crunchyroll Crunchyroll",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Crunchyroll.png"
+  },
+  {
+   "name": "多邻国 Duolingo",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Duolingo.png"
+  },
+  {
+   "name": "Coursera Coursera",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Coursera.png"
+  },
+  {
+   "name": "Udemy Udemy",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Udemy.png"
+  },
+  {
+   "name": "星巴克 Starbucks",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Starbucks.png"
+  },
+  {
+   "name": "肯德基 KFC",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/KFC.png"
+  },
+  {
+   "name": "中国国旗 CN",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/cn.png"
+  },
+  {
+   "name": "香港国旗 HK",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/hk.png"
+  },
+  {
+   "name": "台湾国旗 TW",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/tw.png"
+  },
+  {
+   "name": "澳门国旗 MO",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/mo.png"
+  },
+  {
+   "name": "日本国旗 JP",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/jp.png"
+  },
+  {
+   "name": "韩国国旗 KR",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/kr.png"
+  },
+  {
+   "name": "新加坡国旗 SG",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/sg.png"
+  },
+  {
+   "name": "马来西亚国旗 MY",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/my.png"
+  },
+  {
+   "name": "泰国国旗 TH",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/th.png"
+  },
+  {
+   "name": "越南国旗 VN",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/vn.png"
+  },
+  {
+   "name": "菲律宾国旗 PH",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/ph.png"
+  },
+  {
+   "name": "印度尼西亚国旗 ID",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/id.png"
+  },
+  {
+   "name": "印度国旗 IN",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/in.png"
+  },
+  {
+   "name": "巴基斯坦国旗 PK",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/pk.png"
+  },
+  {
+   "name": "孟加拉国国旗 BD",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/bd.png"
+  },
+  {
+   "name": "斯里兰卡国旗 LK",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/lk.png"
+  },
+  {
+   "name": "尼泊尔国旗 NP",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/np.png"
+  },
+  {
+   "name": "柬埔寨国旗 KH",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/kh.png"
+  },
+  {
+   "name": "缅甸国旗 MM",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/mm.png"
+  },
+  {
+   "name": "蒙古国旗 MN",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/mn.png"
+  },
+  {
+   "name": "美国国旗 US",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/us.png"
+  },
+  {
+   "name": "加拿大国旗 CA",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/ca.png"
+  },
+  {
+   "name": "墨西哥国旗 MX",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/mx.png"
+  },
+  {
+   "name": "巴西国旗 BR",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/br.png"
+  },
+  {
+   "name": "阿根廷国旗 AR",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/ar.png"
+  },
+  {
+   "name": "智利国旗 CL",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/cl.png"
+  },
+  {
+   "name": "秘鲁国旗 PE",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/pe.png"
+  },
+  {
+   "name": "哥伦比亚国旗 CO",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/co.png"
+  },
+  {
+   "name": "委内瑞拉国旗 VE",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/ve.png"
+  },
+  {
+   "name": "巴拿马国旗 PA",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/pa.png"
+  },
+  {
+   "name": "英国国旗 GB",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/gb.png"
+  },
+  {
+   "name": "爱尔兰国旗 IE",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/ie.png"
+  },
+  {
+   "name": "法国国旗 FR",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/fr.png"
+  },
+  {
+   "name": "德国国旗 DE",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/de.png"
+  },
+  {
+   "name": "荷兰国旗 NL",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/nl.png"
+  },
+  {
+   "name": "比利时国旗 BE",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/be.png"
+  },
+  {
+   "name": "卢森堡国旗 LU",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/lu.png"
+  },
+  {
+   "name": "瑞士国旗 CH",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/ch.png"
+  },
+  {
+   "name": "奥地利国旗 AT",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/at.png"
+  },
+  {
+   "name": "意大利国旗 IT",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/it.png"
+  },
+  {
+   "name": "西班牙国旗 ES",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/es.png"
+  },
+  {
+   "name": "葡萄牙国旗 PT",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/pt.png"
+  },
+  {
+   "name": "希腊国旗 GR",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/gr.png"
+  },
+  {
+   "name": "瑞典国旗 SE",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/se.png"
+  },
+  {
+   "name": "挪威国旗 NO",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/no.png"
+  },
+  {
+   "name": "丹麦国旗 DK",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/dk.png"
+  },
+  {
+   "name": "芬兰国旗 FI",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/fi.png"
+  },
+  {
+   "name": "冰岛国旗 IS",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/is.png"
+  },
+  {
+   "name": "波兰国旗 PL",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/pl.png"
+  },
+  {
+   "name": "捷克国旗 CZ",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/cz.png"
+  },
+  {
+   "name": "斯洛伐克国旗 SK",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/sk.png"
+  },
+  {
+   "name": "匈牙利国旗 HU",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/hu.png"
+  },
+  {
+   "name": "罗马尼亚国旗 RO",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/ro.png"
+  },
+  {
+   "name": "保加利亚国旗 BG",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/bg.png"
+  },
+  {
+   "name": "克罗地亚国旗 HR",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/hr.png"
+  },
+  {
+   "name": "塞尔维亚国旗 RS",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/rs.png"
+  },
+  {
+   "name": "斯洛文尼亚国旗 SI",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/si.png"
+  },
+  {
+   "name": "爱沙尼亚国旗 EE",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/ee.png"
+  },
+  {
+   "name": "拉脱维亚国旗 LV",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/lv.png"
+  },
+  {
+   "name": "立陶宛国旗 LT",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/lt.png"
+  },
+  {
+   "name": "乌克兰国旗 UA",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/ua.png"
+  },
+  {
+   "name": "白俄罗斯国旗 BY",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/by.png"
+  },
+  {
+   "name": "俄罗斯国旗 RU",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/ru.png"
+  },
+  {
+   "name": "土耳其国旗 TR",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/tr.png"
+  },
+  {
+   "name": "摩尔多瓦国旗 MD",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/md.png"
+  },
+  {
+   "name": "塞浦路斯国旗 CY",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/cy.png"
+  },
+  {
+   "name": "马耳他国旗 MT",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/mt.png"
+  },
+  {
+   "name": "澳大利亚国旗 AU",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/au.png"
+  },
+  {
+   "name": "新西兰国旗 NZ",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/nz.png"
+  },
+  {
+   "name": "南非国旗 ZA",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/za.png"
+  },
+  {
+   "name": "埃及国旗 EG",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/eg.png"
+  },
+  {
+   "name": "尼日利亚国旗 NG",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/ng.png"
+  },
+  {
+   "name": "肯尼亚国旗 KE",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/ke.png"
+  },
+  {
+   "name": "摩洛哥国旗 MA",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/ma.png"
+  },
+  {
+   "name": "坦桑尼亚国旗 TZ",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/tz.png"
+  },
+  {
+   "name": "加纳国旗 GH",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/gh.png"
+  },
+  {
+   "name": "沙特阿拉伯国旗 SA",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/sa.png"
+  },
+  {
+   "name": "阿联酋国旗 AE",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/ae.png"
+  },
+  {
+   "name": "以色列国旗 IL",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/il.png"
+  },
+  {
+   "name": "卡塔尔国旗 QA",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/qa.png"
+  },
+  {
+   "name": "科威特国旗 KW",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/kw.png"
+  },
+  {
+   "name": "伊朗国旗 IR",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/ir.png"
+  },
+  {
+   "name": "伊拉克国旗 IQ",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/iq.png"
+  },
+  {
+   "name": "约旦国旗 JO",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/jo.png"
+  },
+  {
+   "name": "黎巴嫩国旗 LB",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/lb.png"
+  },
+  {
+   "name": "哈萨克斯坦国旗 KZ",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/kz.png"
+  },
+  {
+   "name": "乌兹别克斯坦国旗 UZ",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/uz.png"
+  },
+  {
+   "name": "欧盟国旗 EU",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/eu.png"
+  },
+  {
+   "name": "联合国国旗 UN",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/un.png"
+  },
+  {
+   "name": "中国大陆地区 CN",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/CN.png"
+  },
+  {
+   "name": "香港地区 HK",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/HK.png"
+  },
+  {
+   "name": "台湾地区 TW",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/TW.png"
+  },
+  {
+   "name": "澳门地区 MO",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/MO.png"
+  },
+  {
+   "name": "日本地区 JP",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/JP.png"
+  },
+  {
+   "name": "韩国地区 KR",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/KR.png"
+  },
+  {
+   "name": "新加坡地区 SG",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/SG.png"
+  },
+  {
+   "name": "马来西亚地区 MY",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/MY.png"
+  },
+  {
+   "name": "泰国地区 TH",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/TH.png"
+  },
+  {
+   "name": "菲律宾地区 PH",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/PH.png"
+  },
+  {
+   "name": "印度地区 IN",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/IN.png"
+  },
+  {
+   "name": "澳大利亚地区 AU",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/AU.png"
+  },
+  {
+   "name": "美国地区 US",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/US.png"
+  },
+  {
+   "name": "加拿大地区 CA",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/CA.png"
+  },
+  {
+   "name": "巴西地区 BR",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/BR.png"
+  },
+  {
+   "name": "英国地区 UK",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/UK.png"
+  },
+  {
+   "name": "德国地区 DE",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/DE.png"
+  },
+  {
+   "name": "法国地区 FR",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/FR.png"
+  },
+  {
+   "name": "俄罗斯地区 RU",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/RU.png"
+  },
+  {
+   "name": "芬兰地区 FI",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/FI.png"
+  },
+  {
+   "name": "乌克兰地区 UA",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/UA.png"
+  },
+  {
+   "name": "土耳其地区 TR",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/TR.png"
+  },
+  {
+   "name": "埃及地区 EG",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/EG.png"
+  },
+  {
+   "name": "欧盟地区 EU",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/EU.png"
+  },
+  {
+   "name": "联合国地区 UN",
+   "url": "https://fastly.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/UN.png"
+  }
+ ]
+}

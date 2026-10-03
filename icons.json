@@ -1,0 +1,1162 @@
+{
+ "name": "Stash 彩色图标集",
+ "description": "主流国内外网站彩色图标（Qure + simple-icons）＋ 75 国国旗（圆形 / 圆角方形）。含中文别名与分类索引。",
+ "icons": [
+  {
+   "name": "Direct",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Direct.png"
+  },
+  {
+   "name": "Proxy",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Proxy.png"
+  },
+  {
+   "name": "Reject",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Reject.png"
+  },
+  {
+   "name": "Final",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Final.png"
+  },
+  {
+   "name": "Global",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Global.png"
+  },
+  {
+   "name": "Auto",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Auto.png"
+  },
+  {
+   "name": "Static",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Static.png"
+  },
+  {
+   "name": "Available",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Available.png"
+  },
+  {
+   "name": "Loop",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Loop.png"
+  },
+  {
+   "name": "Speedtest",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Speedtest.png"
+  },
+  {
+   "name": "Download",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Download.png"
+  },
+  {
+   "name": "AdBlack",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/AdBlack.png"
+  },
+  {
+   "name": "Advertising",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Advertising.png"
+  },
+  {
+   "name": "Hijacking",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Hijacking.png"
+  },
+  {
+   "name": "Bypass",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Bypass.png"
+  },
+  {
+   "name": "Back",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Back.png"
+  },
+  {
+   "name": "Area",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Area.png"
+  },
+  {
+   "name": "Domestic",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Domestic.png"
+  },
+  {
+   "name": "ForeignMedia",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/ForeignMedia.png"
+  },
+  {
+   "name": "DomesticMedia",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/DomesticMedia.png"
+  },
+  {
+   "name": "Media",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Media.png"
+  },
+  {
+   "name": "Game",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Game.png"
+  },
+  {
+   "name": "Streaming",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Streaming.png"
+  },
+  {
+   "name": "StreamingCN",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/StreamingCN.png"
+  },
+  {
+   "name": "Unlock",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Unlock.png"
+  },
+  {
+   "name": "Music_Enhance",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Music_Enhance.png"
+  },
+  {
+   "name": "VIP",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/VIP.png"
+  },
+  {
+   "name": "Server",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Server.png"
+  },
+  {
+   "name": "Airport",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Airport.png"
+  },
+  {
+   "name": "Apple",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Apple.png"
+  },
+  {
+   "name": "App_Store",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/App_Store.png"
+  },
+  {
+   "name": "Apple_Music",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Apple_Music.png"
+  },
+  {
+   "name": "Apple_TV",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Apple_TV.png"
+  },
+  {
+   "name": "Apple_News",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Apple_News.png"
+  },
+  {
+   "name": "iCloud",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/iCloud.png"
+  },
+  {
+   "name": "Find_My",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Find_My.png"
+  },
+  {
+   "name": "Google",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Google.png"
+  },
+  {
+   "name": "Gmail",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Gmail.png"
+  },
+  {
+   "name": "Google_Drive",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Google_Drive.png"
+  },
+  {
+   "name": "Google_Search",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Google_Search.png"
+  },
+  {
+   "name": "Google_Opinion_Rewards",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Google_Opinion_Rewards.png"
+  },
+  {
+   "name": "Microsoft",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Microsoft.png"
+  },
+  {
+   "name": "Windows",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Windows.png"
+  },
+  {
+   "name": "Windows_11",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Windows_11.png"
+  },
+  {
+   "name": "OneDrive",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/OneDrive.png"
+  },
+  {
+   "name": "Azure",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Azure.png"
+  },
+  {
+   "name": "Copilot",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Copilot.png"
+  },
+  {
+   "name": "Xbox",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Xbox.png"
+  },
+  {
+   "name": "ChatGPT",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/ChatGPT.png"
+  },
+  {
+   "name": "GitHub",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/GitHub.png"
+  },
+  {
+   "name": "GitHub_Letter",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/GitHub_Letter.png"
+  },
+  {
+   "name": "Notion",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Notion.png"
+  },
+  {
+   "name": "Cloudflare",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Cloudflare.png"
+  },
+  {
+   "name": "Facebook",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Facebook.png"
+  },
+  {
+   "name": "Instagram",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Instagram.png"
+  },
+  {
+   "name": "Twitter",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Twitter.png"
+  },
+  {
+   "name": "X",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/X.png"
+  },
+  {
+   "name": "TikTok",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/TikTok.png"
+  },
+  {
+   "name": "Telegram",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Telegram.png"
+  },
+  {
+   "name": "Telegram_X",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Telegram_X.png"
+  },
+  {
+   "name": "Linkedin",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Linkedin.png"
+  },
+  {
+   "name": "Discord",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Discord.png"
+  },
+  {
+   "name": "Clubhouse",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Clubhouse.png"
+  },
+  {
+   "name": "Line",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Line.png"
+  },
+  {
+   "name": "Kakao",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Kakao.png"
+  },
+  {
+   "name": "WeChat",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/WeChat.png"
+  },
+  {
+   "name": "Weibo",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Weibo.png"
+  },
+  {
+   "name": "bilibili",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/bilibili.png"
+  },
+  {
+   "name": "iQIYI",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/iQIYI.png"
+  },
+  {
+   "name": "Taobao",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Taobao.png"
+  },
+  {
+   "name": "Alibaba",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Alibaba.png"
+  },
+  {
+   "name": "Netease_Music",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Netease_Music.png"
+  },
+  {
+   "name": "QQ",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/QQ.png"
+  },
+  {
+   "name": "Spotify",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Spotify.png"
+  },
+  {
+   "name": "deezer",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/deezer.png"
+  },
+  {
+   "name": "TIDAL",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/TIDAL.png"
+  },
+  {
+   "name": "Pandora",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Pandora.png"
+  },
+  {
+   "name": "KKBOX",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/KKBOX.png"
+  },
+  {
+   "name": "JOOX",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/JOOX.png"
+  },
+  {
+   "name": "YouTube_Music",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/YouTube_Music.png"
+  },
+  {
+   "name": "YouTube",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/YouTube.png"
+  },
+  {
+   "name": "Netflix",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Netflix.png"
+  },
+  {
+   "name": "Disney+",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/DisneyPlus.png"
+  },
+  {
+   "name": "HBO",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/HBO.png"
+  },
+  {
+   "name": "HBO_Max",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/HBO_Max.png"
+  },
+  {
+   "name": "HBO_GO",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/HBO_GO.png"
+  },
+  {
+   "name": "Prime_Video",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Prime_Video.png"
+  },
+  {
+   "name": "Hulu",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Hulu.png"
+  },
+  {
+   "name": "Peacock",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Peacock.png"
+  },
+  {
+   "name": "Paramount",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Paramount.png"
+  },
+  {
+   "name": "Star+",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/StarPlus.png"
+  },
+  {
+   "name": "STARZ",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/STARZ.png"
+  },
+  {
+   "name": "ESPN+",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/ESPNPlus.png"
+  },
+  {
+   "name": "DAZN",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/DAZN.png"
+  },
+  {
+   "name": "Tubi",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Tubi.png"
+  },
+  {
+   "name": "discovery+",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/discoveryPlus.png"
+  },
+  {
+   "name": "Vimeo",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Vimeo.png"
+  },
+  {
+   "name": "Steam",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Steam.png"
+  },
+  {
+   "name": "PlayStation",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/PlayStation.png"
+  },
+  {
+   "name": "Nintendo",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Nintendo.png"
+  },
+  {
+   "name": "Epic_Games",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Epic_Games.png"
+  },
+  {
+   "name": "League_of_Legends",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/League_of_Legends.png"
+  },
+  {
+   "name": "Twitch",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Twitch.png"
+  },
+  {
+   "name": "niconico",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/niconico.png"
+  },
+  {
+   "name": "AbemaTV",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/AbemaTV.png"
+  },
+  {
+   "name": "AfreecaTV",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/AfreecaTV.png"
+  },
+  {
+   "name": "Bahamut",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Bahamut.png"
+  },
+  {
+   "name": "KKTV",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/KKTV.png"
+  },
+  {
+   "name": "Viu",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Viu.png"
+  },
+  {
+   "name": "ViuTV",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/ViuTV.png"
+  },
+  {
+   "name": "WeTV",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/WeTV.png"
+  },
+  {
+   "name": "BBC_iPlayer",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/BBC_iPlayer.png"
+  },
+  {
+   "name": "ITV",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/ITV.png"
+  },
+  {
+   "name": "My5",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/My5.png"
+  },
+  {
+   "name": "All4",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/All4.png"
+  },
+  {
+   "name": "FOX",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/FOX.png"
+  },
+  {
+   "name": "NBC",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/NBC.png"
+  },
+  {
+   "name": "NBA",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/NBA.png"
+  },
+  {
+   "name": "PBS",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/PBS.png"
+  },
+  {
+   "name": "Yahoo",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Yahoo.png"
+  },
+  {
+   "name": "Amazon",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Amazon.png"
+  },
+  {
+   "name": "PayPal",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/PayPal.png"
+  },
+  {
+   "name": "Emby",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Emby.png"
+  },
+  {
+   "name": "Infuse",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Infuse.png"
+  },
+  {
+   "name": "TestFlight",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/TestFlight.png"
+  },
+  {
+   "name": "Zhihu",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Zhihu.png"
+  },
+  {
+   "name": "Xiaohongshu",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Xiaohongshu.png"
+  },
+  {
+   "name": "Baidu",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Baidu.png"
+  },
+  {
+   "name": "Kuaishou",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Kuaishou.png"
+  },
+  {
+   "name": "Douban",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Douban.png"
+  },
+  {
+   "name": "Meituan",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Meituan.png"
+  },
+  {
+   "name": "Alipay",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Alipay.png"
+  },
+  {
+   "name": "Xiaomi",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Xiaomi.png"
+  },
+  {
+   "name": "Huawei",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Huawei.png"
+  },
+  {
+   "name": "Trip",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Trip.png"
+  },
+  {
+   "name": "WhatsApp",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/WhatsApp.png"
+  },
+  {
+   "name": "Reddit",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Reddit.png"
+  },
+  {
+   "name": "Pinterest",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Pinterest.png"
+  },
+  {
+   "name": "Snapchat",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Snapchat.png"
+  },
+  {
+   "name": "Signal",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Signal.png"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Wikipedia.png"
+  },
+  {
+   "name": "Zoom",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Zoom.png"
+  },
+  {
+   "name": "Figma",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Figma.png"
+  },
+  {
+   "name": "Dropbox",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Dropbox.png"
+  },
+  {
+   "name": "Bitwarden",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Bitwarden.png"
+  },
+  {
+   "name": "OnePassword",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/OnePassword.png"
+  },
+  {
+   "name": "Claude",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Claude.png"
+  },
+  {
+   "name": "Anthropic",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Anthropic.png"
+  },
+  {
+   "name": "Perplexity",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Perplexity.png"
+  },
+  {
+   "name": "HuggingFace",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/HuggingFace.png"
+  },
+  {
+   "name": "Binance",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Binance.png"
+  },
+  {
+   "name": "Coinbase",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Coinbase.png"
+  },
+  {
+   "name": "OKX",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/OKX.png"
+  },
+  {
+   "name": "Stripe",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Stripe.png"
+  },
+  {
+   "name": "Wise",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Wise.png"
+  },
+  {
+   "name": "ExpressVPN",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/ExpressVPN.png"
+  },
+  {
+   "name": "NordVPN",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/NordVPN.png"
+  },
+  {
+   "name": "ProtonMail",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/ProtonMail.png"
+  },
+  {
+   "name": "OnlyFans",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/OnlyFans.png"
+  },
+  {
+   "name": "Docker",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Docker.png"
+  },
+  {
+   "name": "Ubuntu",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Ubuntu.png"
+  },
+  {
+   "name": "Debian",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Debian.png"
+  },
+  {
+   "name": "RedHat",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/RedHat.png"
+  },
+  {
+   "name": "NVIDIA",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/NVIDIA.png"
+  },
+  {
+   "name": "AMD",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/AMD.png"
+  },
+  {
+   "name": "Intel",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Intel.png"
+  },
+  {
+   "name": "Qualcomm",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Qualcomm.png"
+  },
+  {
+   "name": "Shopify",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Shopify.png"
+  },
+  {
+   "name": "WordPress",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/WordPress.png"
+  },
+  {
+   "name": "Crunchyroll",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Crunchyroll.png"
+  },
+  {
+   "name": "Duolingo",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Duolingo.png"
+  },
+  {
+   "name": "Coursera",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Coursera.png"
+  },
+  {
+   "name": "Udemy",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Udemy.png"
+  },
+  {
+   "name": "Starbucks",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Starbucks.png"
+  },
+  {
+   "name": "KFC",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/KFC.png"
+  },
+  {
+   "name": "China (CN)",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/cn.png"
+  },
+  {
+   "name": "Hong Kong (HK)",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/hk.png"
+  },
+  {
+   "name": "Taiwan (TW)",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/tw.png"
+  },
+  {
+   "name": "Macao (MO)",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/mo.png"
+  },
+  {
+   "name": "Japan (JP)",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/jp.png"
+  },
+  {
+   "name": "South Korea (KR)",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/kr.png"
+  },
+  {
+   "name": "Singapore (SG)",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/sg.png"
+  },
+  {
+   "name": "Malaysia (MY)",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/my.png"
+  },
+  {
+   "name": "Thailand (TH)",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/th.png"
+  },
+  {
+   "name": "Vietnam (VN)",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/vn.png"
+  },
+  {
+   "name": "Philippines (PH)",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/ph.png"
+  },
+  {
+   "name": "Indonesia (ID)",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/id.png"
+  },
+  {
+   "name": "India (IN)",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/in.png"
+  },
+  {
+   "name": "Pakistan (PK)",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/pk.png"
+  },
+  {
+   "name": "Bangladesh (BD)",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/bd.png"
+  },
+  {
+   "name": "Sri Lanka (LK)",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/lk.png"
+  },
+  {
+   "name": "Nepal (NP)",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/np.png"
+  },
+  {
+   "name": "Cambodia (KH)",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/kh.png"
+  },
+  {
+   "name": "Myanmar (MM)",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/mm.png"
+  },
+  {
+   "name": "Mongolia (MN)",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/mn.png"
+  },
+  {
+   "name": "United States (US)",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/us.png"
+  },
+  {
+   "name": "Canada (CA)",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/ca.png"
+  },
+  {
+   "name": "Mexico (MX)",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/mx.png"
+  },
+  {
+   "name": "Brazil (BR)",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/br.png"
+  },
+  {
+   "name": "Argentina (AR)",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/ar.png"
+  },
+  {
+   "name": "Chile (CL)",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/cl.png"
+  },
+  {
+   "name": "Peru (PE)",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/pe.png"
+  },
+  {
+   "name": "Colombia (CO)",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/co.png"
+  },
+  {
+   "name": "Venezuela (VE)",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/ve.png"
+  },
+  {
+   "name": "Panama (PA)",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/pa.png"
+  },
+  {
+   "name": "United Kingdom (GB)",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/gb.png"
+  },
+  {
+   "name": "Ireland (IE)",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/ie.png"
+  },
+  {
+   "name": "France (FR)",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/fr.png"
+  },
+  {
+   "name": "Germany (DE)",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/de.png"
+  },
+  {
+   "name": "Netherlands (NL)",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/nl.png"
+  },
+  {
+   "name": "Belgium (BE)",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/be.png"
+  },
+  {
+   "name": "Luxembourg (LU)",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/lu.png"
+  },
+  {
+   "name": "Switzerland (CH)",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/ch.png"
+  },
+  {
+   "name": "Austria (AT)",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/at.png"
+  },
+  {
+   "name": "Italy (IT)",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/it.png"
+  },
+  {
+   "name": "Spain (ES)",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/es.png"
+  },
+  {
+   "name": "Portugal (PT)",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/pt.png"
+  },
+  {
+   "name": "Greece (GR)",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/gr.png"
+  },
+  {
+   "name": "Sweden (SE)",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/se.png"
+  },
+  {
+   "name": "Norway (NO)",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/no.png"
+  },
+  {
+   "name": "Denmark (DK)",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/dk.png"
+  },
+  {
+   "name": "Finland (FI)",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/fi.png"
+  },
+  {
+   "name": "Iceland (IS)",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/is.png"
+  },
+  {
+   "name": "Poland (PL)",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/pl.png"
+  },
+  {
+   "name": "Czechia (CZ)",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/cz.png"
+  },
+  {
+   "name": "Slovakia (SK)",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/sk.png"
+  },
+  {
+   "name": "Hungary (HU)",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/hu.png"
+  },
+  {
+   "name": "Romania (RO)",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/ro.png"
+  },
+  {
+   "name": "Bulgaria (BG)",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/bg.png"
+  },
+  {
+   "name": "Croatia (HR)",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/hr.png"
+  },
+  {
+   "name": "Serbia (RS)",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/rs.png"
+  },
+  {
+   "name": "Slovenia (SI)",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/si.png"
+  },
+  {
+   "name": "Estonia (EE)",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/ee.png"
+  },
+  {
+   "name": "Latvia (LV)",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/lv.png"
+  },
+  {
+   "name": "Lithuania (LT)",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/lt.png"
+  },
+  {
+   "name": "Ukraine (UA)",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/ua.png"
+  },
+  {
+   "name": "Belarus (BY)",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/by.png"
+  },
+  {
+   "name": "Russia (RU)",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/ru.png"
+  },
+  {
+   "name": "Turkey (TR)",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/tr.png"
+  },
+  {
+   "name": "Moldova (MD)",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/md.png"
+  },
+  {
+   "name": "Cyprus (CY)",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/cy.png"
+  },
+  {
+   "name": "Malta (MT)",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/mt.png"
+  },
+  {
+   "name": "Australia (AU)",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/au.png"
+  },
+  {
+   "name": "New Zealand (NZ)",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/nz.png"
+  },
+  {
+   "name": "South Africa (ZA)",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/za.png"
+  },
+  {
+   "name": "Egypt (EG)",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/eg.png"
+  },
+  {
+   "name": "Nigeria (NG)",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/ng.png"
+  },
+  {
+   "name": "Kenya (KE)",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/ke.png"
+  },
+  {
+   "name": "Morocco (MA)",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/ma.png"
+  },
+  {
+   "name": "Tanzania (TZ)",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/tz.png"
+  },
+  {
+   "name": "Ghana (GH)",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/gh.png"
+  },
+  {
+   "name": "Saudi Arabia (SA)",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/sa.png"
+  },
+  {
+   "name": "United Arab Emirates (AE)",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/ae.png"
+  },
+  {
+   "name": "Israel (IL)",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/il.png"
+  },
+  {
+   "name": "Qatar (QA)",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/qa.png"
+  },
+  {
+   "name": "Kuwait (KW)",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/kw.png"
+  },
+  {
+   "name": "Iran (IR)",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/ir.png"
+  },
+  {
+   "name": "Iraq (IQ)",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/iq.png"
+  },
+  {
+   "name": "Jordan (JO)",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/jo.png"
+  },
+  {
+   "name": "Lebanon (LB)",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/lb.png"
+  },
+  {
+   "name": "Kazakhstan (KZ)",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/kz.png"
+  },
+  {
+   "name": "Uzbekistan (UZ)",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/uz.png"
+  },
+  {
+   "name": "European Union (EU)",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/eu.png"
+  },
+  {
+   "name": "United Nations (UN)",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/flags/un.png"
+  },
+  {
+   "name": "Region CN",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/CN.png"
+  },
+  {
+   "name": "Region HK",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/HK.png"
+  },
+  {
+   "name": "Region TW",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/TW.png"
+  },
+  {
+   "name": "Region MO",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/MO.png"
+  },
+  {
+   "name": "Region JP",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/JP.png"
+  },
+  {
+   "name": "Region KR",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/KR.png"
+  },
+  {
+   "name": "Region SG",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/SG.png"
+  },
+  {
+   "name": "Region MY",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/MY.png"
+  },
+  {
+   "name": "Region TH",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/TH.png"
+  },
+  {
+   "name": "Region PH",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/PH.png"
+  },
+  {
+   "name": "Region IN",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/IN.png"
+  },
+  {
+   "name": "Region AU",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/AU.png"
+  },
+  {
+   "name": "Region US",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/US.png"
+  },
+  {
+   "name": "Region CA",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/CA.png"
+  },
+  {
+   "name": "Region BR",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/BR.png"
+  },
+  {
+   "name": "Region UK",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/UK.png"
+  },
+  {
+   "name": "Region DE",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/DE.png"
+  },
+  {
+   "name": "Region FR",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/FR.png"
+  },
+  {
+   "name": "Region RU",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/RU.png"
+  },
+  {
+   "name": "Region FI",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/FI.png"
+  },
+  {
+   "name": "Region UA",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/UA.png"
+  },
+  {
+   "name": "Region TR",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/TR.png"
+  },
+  {
+   "name": "Region EG",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/EG.png"
+  },
+  {
+   "name": "Region EU",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/EU.png"
+  },
+  {
+   "name": "Region UN",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/regions/UN.png"
+  }
+ ]
+}
