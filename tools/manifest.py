@@ -203,6 +203,7 @@ SI = [
 
     # ---- 人工智能 ----
     ("Claude",         "Claude",              "Claude",       "人工智能"),
+    ("DeepSeek",       "DeepSeek",            "DeepSeek",     "人工智能"),
     ("Anthropic",      "Anthropic",           "Anthropic",    "人工智能"),
     ("Perplexity",     "Perplexity",          "Perplexity",   "人工智能"),
     ("HuggingFace",    "Hugging Face",        "Hugging Face", "人工智能"),
@@ -239,6 +240,15 @@ SI = [
     ("Udemy",          "Udemy",               "Udemy",        "教育"),
     ("Starbucks",      "Starbucks",           "星巴克",       "生活"),
     ("KFC",            "KFC",                 "肯德基",       "生活"),
+]
+
+# ---------------------------------------------------------------------------
+# 2b) dashboard-icons 补充（Apache-2.0）
+#     用于 simple-icons 没有收录的品牌，例如罗技
+#     (输出文件名, dashboard-icons slug, 中文名, 分类)
+# ---------------------------------------------------------------------------
+DASHBOARD = [
+    ("Logitech", "logitech", "罗技", "硬件"),
 ]
 
 # ---------------------------------------------------------------------------

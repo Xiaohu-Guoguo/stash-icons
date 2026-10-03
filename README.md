@@ -4,14 +4,14 @@
 
 | 内容 | 数量 | 规格 |
 |---|---|---|
-| 网站 / 功能图标 `icons/` | **175** | 144×144 PNG，透明底 |
+| 网站 / 功能图标 `icons/` | **177** | 144×144 PNG，透明底 |
 | 国旗（圆形） `flags/` | **89** | 144×144 PNG，透明底 |
 | 国旗（圆角方形 4:3） `flags-square/` | **89** | 144×144 PNG，透明底 |
 | 地区代码徽标 `regions/` | **25** | 144×144 PNG，透明底 |
-| **合计** | **378** | 全部 144×144 RGBA |
+| **合计** | **380** | 全部 144×144 RGBA |
 
 配色与画质对齐社区事实标准 **Qure Color**（**Stash 自带的 `default.yaml` 官方示例就用它**），
-另有 50 个图标由 **simple-icons** 矢量按官方品牌色补齐。
+另有 51 个图标由 **simple-icons** 矢量按官方品牌色补齐。
 
 ![预览](preview.png)
 
@@ -269,12 +269,12 @@ proxy-groups:
 
 ```
 stash-icons/
-├── icons.json              ← 图标集（英文名，289 条）
-├── icons-zh.json           ← 图标集（中文名优先，289 条）★ 推荐
+├── icons.json              ← 图标集（英文名，291 条）
+├── icons-zh.json           ← 图标集（中文名优先，291 条）★ 推荐
 ├── icons-index.json        ← 富索引：分类 / 中文别名 / 来源 / 方形国旗地址
 ├── preview.png             ← 总览预览图
 ├── README.md / NOTICE.md
-├── icons/         175 个网站与功能图标
+├── icons/         177 个网站与功能图标
 ├── flags/          89 个圆形国旗
 ├── flags-square/   89 个圆角方形国旗
 ├── regions/        25 个 Qure 地区代码徽标（CN/HK/TW/US…）
@@ -294,7 +294,7 @@ stash-icons/
 
 ## 四、图标覆盖
 
-### 网站与功能（175 个，26 个分类）
+### 网站与功能（177 个，26 个分类）
 
 | 分类 | 代表图标 |
 |---|---|
@@ -310,7 +310,7 @@ stash-icons/
 | 音乐（7） | Spotify、Deezer、TIDAL、Pandora、KKBOX、JOOX、YouTube Music |
 | 电商支付（6） | 亚马逊、PayPal、支付宝、Stripe、Wise、Shopify |
 | 谷歌（5） | Google、Gmail、Drive、搜索、意见回报 |
-| 人工智能（5） | ChatGPT、Claude、Anthropic、Perplexity、Hugging Face |
+| 人工智能（6） | ChatGPT、Claude、DeepSeek、Anthropic、Perplexity、Hugging Face |
 | 游戏（5） | Steam、PlayStation、任天堂、Epic Games、英雄联盟 |
 | 隐私工具（5） | ExpressVPN、NordVPN、Proton Mail、Bitwarden、1Password |
 | 其他 | 加密货币（币安 / Coinbase / OKX）、操作系统、硬件、教育、云服务、媒体服务器、成人 等 |
@@ -365,6 +365,7 @@ python3 tools/add_icon.py --name 优酷 --file ~/Downloads/youku.png --zh 优酷
 |---|---|---|
 | [Koolson/Qure](https://github.com/Koolson/Qure) | ⚠️ **仓库未附 LICENSE** | `icons/` 主体 125 个 + `regions/` 全部 25 个 |
 | [simple-icons](https://github.com/simple-icons/simple-icons) | **CC0-1.0** | `icons/` 补充 50 个 |
+| [dashboard-icons](https://github.com/homarr-labs/dashboard-icons) | **Apache-2.0** | `icons/` 补充 1 个（罗技） |
 | [lipis/flag-icons](https://github.com/lipis/flag-icons) | **MIT** | 国旗 87 面（矢量栅格化） |
 | [flagcdn](https://flagcdn.com) | 同源 lipis，MIT | 国旗 2 面（`ve` `tz`，见下） |
 

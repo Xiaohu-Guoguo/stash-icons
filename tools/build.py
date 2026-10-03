@@ -29,7 +29,7 @@ import urllib.request
 from PIL import Image, ImageDraw
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from manifest import (QURE, SI, REGIONS, FLAGS,  # noqa: E402
+from manifest import (QURE, SI, DASHBOARD, REGIONS, FLAGS,  # noqa: E402
                       SET_NAME, SET_NAME_EN, SET_DESC)
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -48,6 +48,9 @@ FLAG_SVG = ("https://raw.githubusercontent.com/lipis/flag-icons/main/"
             "flags/4x3/{code}.svg")
 # 回退源：flagcdn 的定尺寸 4:3 PNG（同一作者 lipis 出品，与 flag-icons 同源）
 FLAG_PNG = "https://flagcdn.com/256x192/{code}.png"
+# dashboard-icons（Apache-2.0）：补 simple-icons 未收录的品牌
+DASH_PNG = ("https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons"
+            "@main/png/{slug}.png")
 
 SIZE = 144
 SUPERSAMPLE = 640
@@ -269,6 +272,34 @@ def build_icons(qure_color, hexmap, cache, skip_download):
         else:
             missing.append((fname, err))
     log(f"[icons] simple-icons 输出 {ok} 个")
+
+    ok2 = 0
+    for fname, slug, zh, cat in DASHBOARD:
+        out = os.path.join(ICONS, f"{safe_name(fname)}.png")
+        if not os.path.exists(out):
+            if skip_download:
+                missing.append((fname, "无缓存"))
+                continue
+            try:
+                raw = http_get(DASH_PNG.format(slug=slug))
+            except Exception as e:
+                missing.append((fname, f"dashboard-icons 下载失败 {e}"))
+                continue
+            import io as _io
+            im = Image.open(_io.BytesIO(raw)).convert("RGBA")
+            w, h = im.size
+            if w != h:                       # 居中裁成正方形
+                s0 = min(w, h)
+                im = im.crop(((w - s0) // 2, (h - s0) // 2,
+                              (w - s0) // 2 + s0, (h - s0) // 2 + s0))
+            im.resize((SIZE, SIZE), Image.LANCZOS).save(out, "PNG", optimize=True)
+        # 记进缓存，避免每次重新下载
+        if not os.path.exists(out):
+            missing.append((fname, "生成失败"))
+            continue
+        made.append((f"{safe_name(fname)}.png", fname, zh, cat, "dashboard-icons"))
+        ok2 += 1
+    log(f"[icons] dashboard-icons 输出 {ok2} 个")
     return made, missing
 
 

@@ -4,7 +4,7 @@
  "description": "主流国内外网站彩色图标（Qure + simple-icons）＋ 75 国国旗（圆形 / 圆角方形）。含中文别名与分类索引。",
  "base_url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/",
  "count": {
-  "icons": 175,
+  "icons": 177,
   "flags": 89,
   "regions": 25
  },
@@ -1186,6 +1186,14 @@
    "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Claude.png"
   },
   {
+   "file": "icons/DeepSeek.png",
+   "key": "DeepSeek",
+   "zh": "DeepSeek",
+   "category": "人工智能",
+   "source": "simple-icons",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/DeepSeek.png"
+  },
+  {
    "file": "icons/Anthropic.png",
    "key": "Anthropic",
    "zh": "Anthropic",
@@ -1408,6 +1416,14 @@
    "category": "生活",
    "source": "simple-icons",
    "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/KFC.png"
+  },
+  {
+   "file": "icons/Logitech.png",
+   "key": "Logitech",
+   "zh": "罗技",
+   "category": "硬件",
+   "source": "dashboard-icons",
+   "url": "https://cdn.jsdelivr.net/gh/Xiaohu-Guoguo/stash-icons@main/icons/Logitech.png"
   }
  ],
  "flags": [
